@@ -1,7838 +1,872 @@
-FAMILY
-HISTORY:
-Mother
-diabetes.
-mother
-described
-congested
-sounds
-cough
-decreased
-appetite.
-FAMILY
-HISTORY:
-Grandmother
-died
-cerebral
-aneurysm.
-FAMILY
-HISTORY:
-Positive
-coronary
-artery
-disease
-(father
-&
-brother).
-FAMILY
-HISTORY:
-Includes
-diabetes
-father
-side
-family.
-states
-daughter's
-father
-argument
-state
-relationship.
-currently
-separated
-partner
-father
-21-month-old
-daughter.
-FAMILY
-HISTORY:
-Parent
-admits
-family
-history
-Alzheimer's
-disease
-associated
-paternal
-grandmother.
-child
-accompanied
-mother
-communicates
-well
-English.
-morning
-Mom.
-HISTORY
-PRESENT
-ILLNESS:
-12-year-old
-white
-male
-mother
-complaints
-right
-ear
-hurting.
-Mother
-states
-complaining
-several
-days.
-(Medical
-Transcription
-Sample
-Report)
-PRESENTATION:
-Patient,
-13
-years
-old,
-comes
-office
-mother
-complaining
-severe
-ear
-pain.
-awoke
-night
-severe
-ear
-pain,
-mom
-states
-third
-time
-year
-earaches.
-Mom
-reports
-patient
-afebrile
-earache
-episodes,
-upper
-respiratory
-symptoms.
-BIRTH
-DEVELOPMENTAL
-HISTORY:
-Patient's
-mother
-reports
-normal
-pregnancy
-complications,
-received
-prenatal
-care
-12
-weeks.
-FAMILY/SOCIAL
-HISTORY:
-Patient
-lives
-parents
-two
-siblings
-(brother
--
-age
-11
-years,
-sister
--
-age
-15
-years).
-Mom
-reports
-several
-friends,
-concerned
-time
-required
-wrestling
-team.
-Dad
-hypertension
-frequent
-heartburn
-symptoms
-treats
-over-the-counter
-(OTC)
-medications.
-Mom
-healthy
-asthma.
-Patient's
-Mom
-states
-takes
-prescribed
-medications
-OTC
-medications,
-admits
-taking
-dad's
-OTC
-Pepcid
-AE
-sometimes
-gets
-heartburn.
-Mom
-sister
-cooks
-supper
-evening.
-family
-goes
-eat
-twice
-week
-gets
-"fast
-food"
-twice
-week
-according
-Mom.
-history
-"heartburn"
-relieved
-father's
-medication
-striking.
-PLAN:
-Patient
-Mom
-agreed
-trial
-omeprazole
-20
-mg
-bedtime
-2
-weeks.
-procedure
-discussed
-father
-mother
-patient
-mentally
-challenged.
-family
-history
-significant
-father
-mine,
-also
-reflux
-issues,
-without
-true
-heartburn,
-distal
-esophageal
-stricture.
-procedure
-discussed
-patient,
-patient's
-mother.
-PROCEDURE
-REPORT:
-Informed
-consent
-obtained
-Mrs.
-ABC's
-sister,
-risks
-benefits
-procedure
-carefully
-explained,
-included
-limited
-bleeding,
-infection,
-perforation,
-allergic
-reaction
-medications.
-FAMILY
-HISTORY:
-Mother
-diabetes.
-FAMILY
-HISTORY:
-Notable
-mother
-good
-health,
-father
-joint
-problems
-questionable
-celiac
-disease
-well.
-two
-sisters
-one
-brother.
-One
-sister
-interestingly
-inflammatory
-arthritis.
-discussed
-mother
-gold
-standard
-really
-small
-bowel
-biopsy,
-would
-go
-back
-gluten
-diet
-obtain
-study.
-check
-TSH
-well
-CBC
-make
-sure
-anemic
-secondary
-rectal
-bleeding
-sister
-inflammatory
-arthritis,
-go
-ahead
-check
-flexible
-sigmoidoscopy
-make
-sure
-signs
-inflammatory
-bowel
-disease.
-father
-alcoholic.
-currently
-lives
-sister,
-work;
-collects
-pension.
-V.
-DEPRESSION
-FOLLOWING
-RECENT
-DELIVERY
-TERM
-INFANT
-RECENT
-DEATH
-ADULT
-SON
-(SEPTEMBER
-2006).
-Sample
-Type:
-General
-Medicine
-Sample
-Name:
-Fifth
-Disease
--
-SOAP
-Description:
-Fifth
-disease
-sinusitis(Medical
-Transcription
-Sample
-Report)
-SUBJECTIVE:
-Grandfather
-brings
-patient
-today
-headaches,
-mostly
-face.
-FAMILY
-HISTORY:
-Sister
-dizzy
-acute
-illnesses.
-three
-grown
-sons,
-successful
-professional
-positions.
-One
-son
-gastroenterologist
-San
-Diego,
-California.
-far
-cancer
-two
-cousins
-breast
-cancer.
-far
-diabetes
-father
-grandfather
-type
-II
-diabetes.
-Son
-type
-diabetes
-struggling
-moment.
-Mother
-would
-concerned
-possibility
-coronary
-artery
-disease
-given
-patient’s
-underlying
-risk
-factors.
-FAMILY
-HISTORY:
-Father
-passed
-away
-81;
-mother
-multiple
-myeloma
-83.
-FAMILY
-HISTORY:
-Benign
-breast
-lump
-mother;
-however,
-paternal
-grandmother
-breast
-cancer.
-Sample
-Type:
-General
-Medicine
-Sample
-Name:
-Gen
-Med
-Consult
--
-17
-Description:
-18-month-old
-white
-male
-mother
-complaint
-intermittent
-fever
-past
-five
-days.
-HISTORY
-PRESENT
-ILLNESS:
-18-month-old
-white
-male
-mother
-complaint
-intermittent
-fever
-past
-five
-days.
-Mother
-states
-completed
-Amoxil
-several
-days
-ago
-sinus
-infection.
-Mother
-states
-temperature
-usually
-elevates
-night.
-Mother
-taken
-since,
-fact
-states
-today
-seems
-much
-better.
-PLAN:
-Mother
-advised
-continue
-Zyrtec
-directed
-daily.
-Mother
-also
-worried.
-FAMILY
-SOCIAL
-HISTORY:
-sister
-today
-clinical
-sinusitis.
-Mother
-father
-healthy.
-Foster
-mom
-actually
-going
-town
-week
-19th
-23rd,
-probably
-hospitalized
-respite
-care
-foster
-care
-situations
-handle
-patient.
-Biological
-Mom
-Grandma
-visit
-Thursdays
-hour.
-time
-see
-her,
-impressed,
-relayed
-foster
-mom.
-Keywords:
-general
-medicine,
-chronic
-lung
-disease,
-signs
-infection,
-breathing
-status,
-foster
-mom,
-foster
-care,
-pediasure,
-Mom
-allergy
-trouble
-right
-now.
-Mom
-concerns.
-Sample
-Type:
-General
-Medicine
-Sample
-Name:
-Gen
-Med
-Consult
--
-23
-Description:
-(Medical
-Transcription
-Sample
-Report)
-SUBJECTIVE:
-Mom
-brings
-patient
-today
-possible
-ear
-infection.
-treated
-04/14/2004,
-amoxicillin
-left
-otitis
-Mom
-said
-seem
-get
-better
-started
-complaining
-left
-ear
-pain
-today.
-stated
-brother
-died
-heart
-failure
-age
-72.
-FAMILY
-HISTORY:
-Father
-patient
-died
-age
-69
-CVA.
-Mother
-patient
-died
-age
-79
-"heart
-stopped".
-Four
-siblings
-died,
-two
-due
-diabetes,
-one
-cause
-unknown,
-one
-brother
-died
-age
-72
-heart
-failure.
-patient
-lives
-wife
-daughter
-apartment.
-GEN:
-Elderly
-gentleman
-lying
-bed
-mild
-respiratory
-distress,
-thin,
-tired
-appearing,
-wife
-daughter
-present
-bedside,
-articulate.
-FAMILY
-HISTORY:
-Mother
-61
-years
-old
-brother
-39
-years
-old,
-alive
-well.
-Father
-died
-48
-colon
-cancer
-questionable
-pancreatic
-cancer.
-One
-paternal
-uncle
-died
-32
-colon
-cancer
-bile
-duct
-cancer.
-One
-paternal
-uncle
-colon
-cancer
-40s.
-Thirty
-cancers
-noted
-father’s
-side
-family,
-many
-colon;
-two
-women
-breast
-cancer.
-DNR
-status:
-ad
-discussion
-patient's
-daughter,
-requests
-patient
-receive
-CPR
-intubation
-clinical
-condition
-patient
-respond
-therapy.
-HISTORY
-PRESENT
-ILLNESS:
-patient
-resident
-Mazatlan,
-Mexico,
-visiting
-son
-Utah,
-history
-diabetes.
-SOCIAL
-HISTORY:
-patient
-Mazatlan,
-Mexico
-resident,
-visiting
-son
-here.
-FAMILY
-HISTORY:
-father
-type
-diabetes
-heart
-disease.
-brother
-heart
-attack
-age
-52.
-FAMILY
-HISTORY:
-Strongly
-positive
-heart
-disease
-father.
-father
-history
-coronary
-artery
-disease
-multiple
-vascular
-strokes.
-mother
-80,
-also
-dementia.
-FAMILY
-HISTORY:
-Mother
-died
-age
-79
-stroke.
-Father
-died
-age
-91
-old
-age.
-brother
-prostate
-cancer.
-one
-brother
-living.
-Oxygen
-saturation
-98%
-2
-L.
-GENERAL
-APPEARANCE:
-alert
-oriented,
-deferring
-history
-daughters.
-lot
-stress
-associated
-son
-challenges.
-sister
-breast
-carcinoma
-diagnosed
-50s.
-father
-gastric
-carcinoma
-diagnosed
-70s.
-fact,
-dad
-diabetes
-brother
-diabetes.
-family
-history
-colon
-cancer
-questionable
-mother,
-deceased.
-Sample
-Type:
-General
-Medicine
-Sample
-Name:
-Gen
-Med
-Progress
-Note
--
-6
-Description:
-3-year-old
-male
-brought
-mother
-concerns
-eating
--
-particular
-eater,
-eating
-much
-general.
-(Medical
-Transcription
-Sample
-Report)
-SUBJECTIVE:
-3-year-old
-male
-brought
-mother
-concerns
-eating.
-PLAN:
-talked
-mother
-this.
-Apparently,
-brother
-similar
-symptoms.
-eaten
-chicken
-ate
-next
-day,
-could
-quite
-understand
-problem
-little
-bit
-language
-barrier,
-although
-dad
-trying
-hard
-explain
-happened.
-way,
-brother
-got
-done
-eating
-chicken,
-felt
-bad
-continued
-feel
-bad.
-daughter
-says
-check
-periodically
-similar
-today’s
-reading.
-also
-thinks
-since
-Lexapro,
-somewhat
-tremor
-basically
-whole
-body
-least
-upper
-body
-including
-torso
-arms
-daughters
-noticed
-speak
-certainly
-difficult
-tell
-today
-much
-tremor.
-acute
-distress,
-accompanied
-daughter.
-Daughter
-mentioned
-today
-thinks
-mom
-pretty
-well,
-especially
-given
-turning
-90
-later
-month
-would
-tend
-agree
-that.
-FAMILY
-HISTORY:
-Mother
-died
-age
-59
-due
-stomach
-cancer
-father
-died
-age
-91
-years
-old.
-Patient
-shoulder
-bursitis,
-pharyngitis,
-attention
-deficit
-disorder,
-(Medical
-Transcription
-Sample
-Report)
-S:
-patient
-today
-mom
-several
-complaints.
-mom
-concerned.
-moms
-insistence,
-refer
-ENT
-possible
-tonsillectomy.
-FAMILY
-HISTORY:
-Mother
-history
-coronary
-artery
-disease.
-inpatient
-management
-patient
-provided
-Dr.
-R.
-patient's
-status
-discussed
-daughter
-husband.
-daughter
-states
-patient
-Life
-Care
-Center,
-believes
-started
-morning.
-Patient
-daughter
-also
-deny
-weight
-loss,
-fevers,
-chills,
-sweats,
-nausea,
-vomiting,
-abdominal
-pain.
-FAMILY
-HISTORY:
-Grandmother
-died
-cerebral
-aneurysm.
-FAMILY
-HISTORY:
-Diabetes,
-Hypertension,
-Father
-Coronary
-Artery
-Bypass
-Graph
-(CABG)
-age
-34.
-FAMILY
-HISTORY:
-Mother
-died
-cancer,
-unknown
-type.
-Dad
-died
-MI.
-(Medical
-Transcription
-Sample
-Report)
-SUBJECTIVE:
-46-year-old
-white
-male
-Down’s
-syndrome
-presents
-mother
-followup
-hypothyroidism,
-well
-onychomycosis.
-mother
-notes
-although
-like
-take
-medications,
-taking
-encouragement.
-notes
-brother
-treated
-12
-years
-ago
-brain
-tumor
-recurrence
-surgery
-again.
-(Medical
-Transcription
-Sample
-Report)
-SUBJECTIVE:
-Mom
-brings
-patient
-today
-sore
-throat
-starting
-last
-night.
-mother
-described
-congested
-sounds
-cough
-decreased
-appetite.
-sister
-died
-breast
-cancer
-age
-32
-daughter
-breast
-cancer
-age
-27.
-FAMILY
-MEDICAL
-HISTORY:
-Father
-age
-85,
-history
-cerebrovascular
-accident
-(stroke)
-hypertension.
-Mother
-history
-CHF
-emphysema
-died
-age
-78.
-brothers
-sisters.
-1
-son
-healthy
-age
-54.
-SOCIAL
-HISTORY:
-patient
-staying
-mother.
-brother
-health
-care
-proxy.
-Supportive
-counseling
-provided
-mother.
-SOCIAL
-HISTORY:
-patient
-lives
-common
-law
-husband
-daughter.
-FES,
-well
-daughter
-report
-significant
-clinical
-functional
-decline
-last
-two
-three
-weeks.
-phone
-conversation
-daughter,
-Xyz,
-health
-care
-proxy,
-ensued.
-daughter
-concerned
-clinical
-decline
-raising
-question
-whether
-would
-benefit
-hospitalization.
-reports
-mother
-died
-many-year
-course
-heart
-failure
-upwards
-three
-dozen
-hospitalizations.
-hospitalization,
-seem
-derive
-benefit
-wondered
-dad
-would
-drive
-equal
-benefit
-hospitalizations.
-Present
-today's
-visit
-patient's
-daughter
-Ruby,
-home
-health
-attendant,
-Hospice
-nurse.
-HISTORY
-PRESENT
-ILLNESS:
-History
-provided
-primarily
-patient's
-daughter,
-well
-referring
-physician
-revealed
-approximately
-two-year
-history
-colon
-cancer
-initially
-diagnosed
-patient
-presented
-swelling
-groin.
-patient
-alert
-lives
-alone,
-although
-daughter
-Ruby
-town
-several
-weeks
-care
-him.
-appetite
-notably
-improved
-since
-discharge
-hospital
-daughter
-believe
-gained
-pounds
-weight.
-greatest
-concern
-daughter
-possibility
-colostomy
-might
-reversible
-recommendation
-physicians
-referring
-hospital,
-PET
-scan
-assess
-whether
-ostomy
-reversible
-various
-reasons,
-primarily
-insurance.
-daughters,
-Ruby
-Camilla
-involved
-patient's
-care.
-patient
-lives
-alone
-currently
-well
-cared
-daughter
-town.
-another
-in-town
-daughter;
-however,
-works
-large
-family.
-valuables
-released
-mother
-decedent
-clothing
-retained
-law
-enforcement
-agency.
-date
-motor
-vehicle
-accident,
-sitting
-right
-front
-passenger's
-seat,
-wearing
-seat
-shoulder
-belt
-safety
-harnesses,
-1996
-1997
-Volvo
-850
-Wagon
-automobile
-driven
-son.
-FAMILY
-HISTORY:
-reports
-father
-angina
-mother
-eosinophilia.
-brothers
-sisters.
-seven
-years
-old,
-raised
-mother
-stepfather.
-sustain
-relationship
-biological
-father
-time
-on.
-son
-currently
-20
-years
-old.
-home
-maker,
-Mr.
-worked
-mother
-restaurant,
-moved
-work
-Borg-Warner
-corporation
-one
-two
-years
-beginning
-Plum
-Industries,
-worked
-14
-years
-worked
-way
-lead
-engineer.
-Sample
-AddressRE:
-Sample
-PatientDear
-Doctor:We
-pleasure
-seeing
-Abc
-mother
-clinic
-today.
-Although
-smoke
-exposure
-significant
-family
-history
-Abc's
-father
-uncle
-problems
-asthma
-well
-older
-sister.
-parents
-maintain
-separate
-households
-question
-consistency
-medication
-administration
-father's
-house.
-spent
-majority
-45-minute
-reviewing
-basic
-principles
-asthma
-management
-believe
-Abc's
-mother
-fairly
-well
-versed
-this.
-encouraged
-mother
-contact
-office
-answer
-questions
-necessary
-phone.
-Sincerely,
-Keywords:
-letters,
-gestation,
-bronchodilator,
-childhood,
-childhood
-asthma,
-cough,
-father,
-healthy,
-letter,
-mother,
-pediatric,
-prematurity,
-shortness
-breath,
-sister,
-wheezing,
-wheezing
-cough,
-asthma,
-known
-mother
-coronary
-heart
-disease.
-reports
-family
-history
-glaucoma
-mother,
-unsure
-specific
-kind.
-followup
-appointment
-Dr.
-F.
-day
-dismissed,
-nephew
-called
-stating
-prescriptions
-lost,
-instructions
-lost,
-etc.
-FAMILY
-HISTORY:
-Mother
-deceased
-age
-55
-breast
-cancer
-also
-type
-2
-diabetes.
-Father
-deceased
-known
-cause.
-Strong
-family
-history
-diabetes
-mother,
-grandmother,
-sisters,
-maternal
-aunts,
-uncles.
-SOCIAL
-HISTORY:
-works
-cook
-nursing
-home,
-single
-one
-daughter.
-married
-2
-sons,
-ages
-5
-17
-years
-old.
-FAMILY
-HISTORY:
-similar
-illness
-family,
-except
-hypertension
-one
-sister
-mom,
-died
-61
-years
-old
-congestive
-heart
-failure.
-father
-67
-years
-old,
-currently
-alive
-asthma.
-also
-one
-sister
-hypertension.
-Questions
--
-Answers(Medical
-Transcription
-Sample
-Report)
-DONOR'S
-PERCEPTION
-RECIPIENT'S
-ILLNESS:What
-understanding
-recipient's
-illness
-need
-kidney
--
-"This
-kidney
-mother
-dialysis
-mother
-suffering
-long
-enough,
-want
-relieve
-suffering
-able
-kidney
-transplant."
-subject
-donation
-arise
--
-"My
-mom
-talked
-together
-family."
-Well,
-since
-talking,
-"I
-tell
-mother
-really
-understand.
-don't
-think
-mom
-really
-understands,
-know
-really
-needs
-kidney.
-CANDIDATE'S
-MOTIVATION
-DONATE:How
-arrive
-decision
-donor
--
-"My
-brothers
-sisters
-got
-together
-decided
-since
-schedule
-flexible
-used
-traveling,
-seem
-like
-best
-candidate."
-CANDIDATE'S
-MOTIVATION
-DONATE:How
-would
-feel
-cannot
-donor
-reason
--
-"I
-would
-feel
-upset
-know
-best
-mother,
-want
-badly
-mother.
-CANDIDATE'S
-DESCRIPTION
-RELATIONSHIP
-RECIPIENT:What
-relationship
-recipient
--
-"That
-mother."
-know
-feel
-better
-mother,
-mother
-always
-sacrificing
-helping
-others."
-expectations
-recuperation
--
-"I
-planning
-staying
-mom
-three
-months
-Houston
-area
-transplant.
-AGE
-HEALTH
-SPOUSE/PARTNER:
-40s
-healthy
-lives
-outside
-Tampo
-6-year-old
-daughter.
-allowed
-flexible
-best
-candidate
-donation
-mom."
-ASSESSMENT:
-43-year-old
-married,
-African-American
-female
-presents
-donor
-assessment
-preparation
-possible
-kidney
-donation
-mother.
-FATHER:
-Father
-died
-2001,
-age
-62
-cardiac
-cancer.
-MOTHER:
-Dolorous
-Massey
-63
-good
-health.
-RELATIONSHIP
-FAMILY
-MEMBERS/IDENTIFIED
-PRIMARY
-SUPPORT
-SYSTEM:
-close
-brother.
-DONOR
-PLANS:
-Either
-husband
-brother,
-older
-children
-try
-donor.
-undergoes
-dialysis
-Monday,
-Wednesday,
-Friday
-DaVita
-Alameda
-care
-Dr.
-P.
-underwent
-coronary
-bypass
-surgery
-2000
-cardiologist
-Dr.
-T.
-lives
-husband
-also
-son
-home
-active
-lady.
-Mother
-(migraine
-HA).
-Father
-22yr
-old
-brother
-alive
-well.
-visiting
-son
-time.
-son
-drove
-Back
-Iowa.
-9)
-SNHLFHX:
-Father
-died,
-MI
-age
-61.
-FHX:
-Mother
-died
-age
-89
-"old
-age."
-Father
-died
-age
-89
-stroke.
-Brother,
-age
-74
-CAD,
-Sister
-died
-age
-30
-cancer.
-FHX:
-Father
-mother
-died
-80's
-"old
-age."
-lived
-alone
-15
-years
-12/94,
-daughters
-began
-sharing
-task
-caring
-her.
-penmanship
-normal,
-appeared
-"child-like"
-according
-daughters.
-Father
-tremors
-following
-stroke.
-Brother
-died
-brain
-aneurysm.
-FHX:
-HTN,
-Colon
-CA,
-daughter
-unknown
-type
-"dystonia."
-2:00AM
-11/28/97,
-got
-go
-bathroom
-collapsed
-mother's
-arms.
-mother
-noted
-appeared
-weak
-left
-side.
-FHX:
-Grand
-Aunt
-(stroke),
-MG
-(CAD),
-Mother
-(CAD,
-died
-MI
-age
-63),
-Father
-(with
-unknown
-CA),
-Sisters
-(HTN),
-DM
-relatives.
-drove
-visit
-sister
-Muscatine,
-Iowa,
-without
-accident.
-BIRTH
-HX:
-Spontaneous
-Vaginal
-delivery
-36weeks
-gestation
-G2P1
-mother.
-Mother
-reportedly
-"flu"
-7th
-8th
-month
-gestation.
-Two
-weeks
-prior
-evaluation
-UIHC
-agreed
-sister
-pick
-church
-8:15AM,
-Sunday
-morning.
-Sunday
-went
-pick
-sister
-sister's
-home
-sister
-(because
-sister
-gone
-pick
-patient)
-patient
-left.
-later
-called
-sister
-asked
-(sister)
-overslept.
-MEDS:
-NoneFHX:
-Father
-died
-MI,
-Mother
-DM
-type
-II.
-condition
-affects
-patient’s
-brother
-maternal
-grandfather.
-BIRTH
-HX:
-32
-weeks
-gestation
-G4
-mother
-weighed
-4#11oz.
-FHX:
-Mother
-alive
-h/o
-HTN
-stroke.
-Father
-died
-motor
-vehicle
-accident
-age
-40
-years.
-PMH:
-1)Born
-37.5
-weeks
-gestation
-uncomplicated
-vaginal
-delivery
-G1P0
-mother.
-SHX:
-lives
-biologic
-father
-mother.
-FHX:
-Migraine
-headaches
-maternal
-side,
-including
-mother.
-FHX:
-Mother
-died
-MI,
-age
-70.
-Father
-died
-prostate
-cancer,
-age
-80.
-FHX:
-know
-father
-contact
-mother.
-FHX:
-Father
-died
-MI,
-age
-80.
-Mother
-died
-MI,
-age73.
-Brother
-died
-Brain
-tumor,
-age
-9.
-FHX:
-Father
-Von
-Hippel-Lindau
-Disease.
-divorced
-two
-sons
-healthy.
-lives
-mother.
-FHX:
-Father
-HTN
-h/o
-strokes
-ages
-45
-80;
-82
-years
-old.
-Mother
-DM
-age
-80.
-FHX:
-Father
-died
-age
-59
-valvular
-heart
-disease.
-Mother
-died
-DM.
-Brother
-CABG
-8/95.
-Father
-died
-renal
-CA.
-One
-grandmother
-passed.
-started
-thoughts
-killing
-mother.
-PSYCHOSOCIAL
-STATUS:
-patient
-lives
-mother
-staying
-years
-now.
-sister
-also
-supportive
-him.
-DESCRIPTION
-TECHNIQUE:
-Informed
-consent
-obtained
-patient's
-brother.
-DESCRIPTION
-TECHNIQUE:
-Informed
-consent
-obtained
-patient's
-mom.
-DESCRIPTION
-TECHNIQUE:
-Informed
-consent
-obtained
-patient's
-mom.
-DESCRIPTION
-TECHNIQUE:
-Informed
-consent
-obtained
-patient's
-brother.
-FAMILY
-HISTORY:
-Mother
-hypertension,
-depression.
-Father
-renal
-cysts
-sometimes
-stomach
-problems.
-Breast
-cancer
-reported
-maternal
-aunt.
-patient's
-sister
-also
-diagnosed
-breast
-cancer
-age
-59.
-FAMILY
-HISTORY:
-Patient
-admits
-family
-history
-cancer
-breast
-associated
-mother.
-comes
-mother
-history
-taken.
-states
-sexually
-active
-declined
-mother
-leave
-room,
-questioned
-regarding
-without
-mother
-present.
-FAMILY
-HX:
-Significant
-maternal
-grandfather
-adult-onset
-diabetes,
-maternal
-grandmother
-hypertension,
-mother
-depression,
-father
-died
-colon
-cancer
-32
-years
-age.
-also
-paternal
-great
-grandfather
-diagnosed
-colon
-cancer.
-FAMILY
-HX:
-Maternal
-grandfather
-MI
-reports
-secondary
-tobacco
-alcohol
-use.
-currently
-metastatic
-melanoma,
-mother
-hypertension
-depression,
-father
-alcoholism.
-notes
-brother
-treated
-12
-years
-ago
-brain
-tumor
-recurrence
-surgery
-again.
-Untreated
-pre-eclampsia
-result
-stroke,
-fluid-build
-around
-lungs,
-kidney
-failure,
-death
-baby
-death
-mother.
-FAMILY
-HISTORY:
-Mother
-50
-healthy.
-Dad
-40
-healthy.
-Half-sister,
-age
-34,
-healthy.
-sister
-age
-10
-yeast
-infections.
-FAMILY
-HISTORY:
-mother
-nursing
-home;
-stroke.
-father
-died
-age
-86
-January
-2004
-congestive
-heart
-failure.
-two
-brothers,
-one
-kidney
-failure,
-brother
-donated
-kidney
-brother,
-young
-man
-alcoholic
-drug
-addict.
-patient
-family
-history
-breast
-cancer
-within
-mother
-age
-58.
-states
-daughter's
-father
-argument
-state
-relationship.
-currently
-separated
-partner
-father
-21-month-old
-daughter.
-baby's
-father
-present
-delivery,
-one
-patient's
-sisters.
-Family
-history
-sister
-breast
-cancer
-age
-43.
-reports
-family
-history
-glaucoma
-mother,
-unsure
-specific
-kind.
-SOCIAL
-HISTORY:
-single
-mother
-one
-adopted
-child.
-mother
-alive.
-father
-deceased
-alcohol.
-FAMILY
-HISTORY:
-father
-died
-age
-80
-prostate
-cancer.
-mother
-died
-age
-67.
-brother
-died
-age
-70
-bone
-throat
-cancer.
-two
-sons,
-ages
-37
-38
-years
-old
-healthy.
-two
-daughters,
-ages
-60
-58
-years
-old,
-cancer.
-leery
-surgical
-procedure,
-even
-referral
-come
-see
-us
-today
-brother
-recently
-died
-complications
-back
-surgery.
-two
-brothers
-ages
-68
-77
-years
-old,
-healthy.
-siblings,
-brother
-sister
-twins
-died
-birth.
-two
-sons
-54
-57
-years
-old
-healthy.
-FAMILY
-HISTORY:
-father
-died
-leukemia.
-mother
-died
-kidney
-heart
-failure.
-two
-brothers;
-five
-sisters,
-one
-breast
-cancer;
-two
-sons;
-daughter.
-brought
-mother.
-SOCIAL
-HISTORY:
-Mother
-appears
-loving
-caring.
-FHX:
-Father
-Von
-Hippel-Lindau
-Disease.
-divorced
-two
-sons
-healthy.
-lives
-mother.
-FHX:
-Father
-HTN
-h/o
-strokes
-ages
-45
-80;
-82
-years
-old.
-Mother
-DM
-age
-80.
-FHX:
-Father
-died
-age
-59
-valvular
-heart
-disease.
-Mother
-died
-DM.
-Brother
-CABG
-8/95.
-Father
-died
-renal
-CA.
-FAMILY
-HISTORY:
-Significant
-two
-brothers
-father
-cancer.
-Family
-Medical
-History:
-Father
-age
-79,
-history
-cerebrovascular
-accident
-(stroke)
-hypertension.
-Mother
-history
-CHF
-emphysema
-died
-age
-74.
-brothers
-sisters.
-FAMILY
-HISTORY:
-Patient
-admits
-family
-history
-arthritis
-associated
-mother.
-HISTORY
-PRESENT
-ILLNESS:
-9-year-old
-African-American
-male
-mother
-well-child
-check.
-Mother
-concerns
-time
-visit.
-could
-better
-milk
-intake,
-Mother
-states
-eat
-cheese
-yogurt.
-behavior
-issues,
-sometimes
-tries
-emulate
-brother
-negative
-behaviors.
-goes
-Texas,
-Mom
-appointment
-already
-see
-allergist
-needs
-find
-primary
-care
-physician
-ask
-record
-release.
-mother
-well-child
-check.
-Mother
-states
-well
-regard
-asthma
-allergies.
-done
-over-the-counter
-Claritin
-seems
-help
-always
-sniffling
-mother
-reports.
-Growth
-chart
-reviewed
-mother.
-test
-vision
-recently
-saw
-eye
-doctor
-though
-discuss
-need
-wear
-glasses
-mother.
-HISTORY
-PRESENT
-ILLNESS:
-12-month-old
-female
-mother
-well-child
-check.
-Mother
-states
-well.
-Mother
-states
-diagnosed
-blocked
-tear
-duct
-side
-shortly
-birth,
-normally
-crusted
-secretions
-every
-morning.
-VIS
-statements
-given
-Mother
-discussion.
-Keywords:
-pediatrics,
-well-child
-check,
-drainage,
-eye,
-lacrimal
-duct
-stenosis,
-lacrimal
-duct,
-mmr,
-varivax,
-vis
-statements,
-tear
-duct,
-lacrimal,
-percentile,
-mother,
-child,
-Mom
-says
-things
-gone
-well.
-Growth
-chart
-reviewed
-Mom.
-Patient
-accompanied
-mother.
-Mother
-concerned
-child's
-red,
-matted
-eye
-walking
-completely
-alone
-yet.
-FAMILY
-HISTORY:
-Patient
-admits
-family
-history
-cancer
-associated
-maternal
-aunt,
-hypertension
-associated
-paternal
-grandfather.
-patient’s
-mom
-Tanzania.
-Discussed
-condition
-treatment
-Mom.
-(Medical
-Transcription
-Sample
-Report)
-PRESENTATION:
-Patient,
-13
-years
-old,
-comes
-office
-mother
-complaining
-severe
-ear
-pain.
-awoke
-night
-severe
-ear
-pain,
-mom
-states
-third
-time
-year
-earaches.
-Mom
-reports
-patient
-afebrile
-earache
-episodes,
-upper
-respiratory
-symptoms.
-BIRTH
-DEVELOPMENTAL
-HISTORY:
-Patient's
-mother
-reports
-normal
-pregnancy
-complications,
-received
-prenatal
-care
-12
-weeks.
-FAMILY/SOCIAL
-HISTORY:
-Patient
-lives
-parents
-two
-siblings
-(brother
--
-age
-11
-years,
-sister
--
-age
-15
-years).
-Mom
-reports
-several
-friends,
-concerned
-time
-required
-wrestling
-team.
-Dad
-hypertension
-frequent
-heartburn
-symptoms
-treats
-over-the-counter
-(OTC)
-medications.
-Mom
-healthy
-asthma.
-Patient's
-Mom
-states
-takes
-prescribed
-medications
-OTC
-medications,
-admits
-taking
-dad's
-OTC
-Pepcid
-AE
-sometimes
-gets
-heartburn.
-Mom
-sister
-cooks
-supper
-evening.
-family
-goes
-eat
-twice
-week
-gets
-"fast
-food"
-twice
-week
-according
-Mom.
-history
-"heartburn"
-relieved
-father's
-medication
-striking.
-PLAN:
-Patient
-Mom
-agreed
-trial
-omeprazole
-20
-mg
-bedtime
-2
-weeks.
-PAST
-MEDICAL
-HISTORY:
-child
-born
-term
-pregnancy,
-spontaneous
-vaginal
-delivery,
-mother
-teenager.
-SOCIAL
-HISTORY:
-child
-lives
-mother
-father,
-teenagers,
-unmarried,
-well
-educated.
-Grandmother
-heavy
-smoker.
-FAMILY
-HISTORY:
-Parent
-admits
-family
-history
-Alzheimer's
-disease
-associated
-paternal
-grandmother.
-child
-accompanied
-mother
-communicates
-well
-English.
-Sample
-AddressRE:
-Sample
-PatientDear
-Doctor:We
-pleasure
-seeing
-Abc
-mother
-clinic
-today.
-Although
-smoke
-exposure
-significant
-family
-history
-Abc's
-father
-uncle
-problems
-asthma
-well
-older
-sister.
-parents
-maintain
-separate
-households
-question
-consistency
-medication
-administration
-father's
-house.
-spent
-majority
-45-minute
-reviewing
-basic
-principles
-asthma
-management
-believe
-Abc's
-mother
-fairly
-well
-versed
-this.
-encouraged
-mother
-contact
-office
-answer
-questions
-necessary
-phone.
-Sincerely,
-Keywords:
-pediatrics,
-gestation,
-bronchodilator,
-childhood,
-childhood
-asthma,
-cough,
-father,
-healthy,
-letter,
-mother,
-pediatric,
-prematurity,
-shortness
-breath,
-sister,
-wheezing,
-wheezing
-cough,
-asthma,
-FAMILY
-HISTORY:
-Heart
-disease
-grandfathers,
-grandmother
-stroke,
-grandmother
-diabetes.
-FAMILY
-HISTORY:
-Patient
-admits
-family
-history
-cataract
-associated
-maternal
-grandmother,headaches/migraines
-associated
-maternal
-aunt.
-HISTORY
-PRESENT
-ILLNESS:
-patient
-62-year-old
-white
-female
-past
-medical
-history
-left
-frontal
-glioblastoma
-subsequent
-craniotomy
-infection
-PE,
-DVT,
-hyperlipidemia,
-hypertension
-according
-patient's
-daughter
-expressing
-signs
-depression.
-FAMILY
-MEDICAL
-HISTORY:
-Father
-lung
-cancer,
-smoker
-40
-years.
-Father's
-aunt
-heart
-disease.
-one
-younger
-brother,
-one
-daughter.
-child
-per
-daughter
-picked
-strained
-relationship
-mother,
-still
-communicating.
-Poor
-concentration,
-mood
-unknown
-(the
-patient
-respond
-questions),
-affect
-flat,
-thought
-process
-logical
-goal
-directed,
-thought
-content
-unable
-assess
-patient
-patient's
-daughter
-denied
-delusions
-homicidal
-ideations.
-One
-son
-Texas
-City
-1
-daughter
-Florida.
-2
-sisters
-brother
-diabetes
-mellitus
-coronary
-artery
-disease.
-HISTORY
-PRESENT
-ILLNESS:
-patient
-42-year-old
-white
-male
-history
-seizures
-brought
-ER
-ABCD
-sister
-following
-cocaine
-nitrous
-oxide
-use.
-patient
-work
-since
-brother
-became
-ill
-3
-months
-ago
-quit
-job
-care
-her.
-Sample
-Type:
-Psychiatry
-Sample
-Name:
-Psych
-H&P
--
-1
-Description:
-Psychiatric
-History
-Physical
--
-Patient
-major
-depression(Medical
-Transcription
-Sample
-Report)
-HISTORY
-PRESENT
-ILLNESS:
-40-year-old
-white
-single
-man
-hospitalized
-XYZ
-Hospital
-mental
-health
-ward,
-issues
-filled
-sister
-mother.
-issues
-involved
-include
-fact
-last
-10
-years
-disability
-psychiatric
-reasons
-working,
-last
-several
-weeks
-month
-began
-call
-family
-talking
-fact
-sexually
-abused
-brother.
-brother
-approximately
-8
-years
-older,
-sexually
-abused
-brother
-4
-years
-older.
-brother
-8
-years
-older
-lives
-California
-contact
-family,
-minimal
-contact
-many
-years.
-brother
-California
-gay.
-brother
-4
-years
-older,
-sexually
-abused,
-patient
-age
-8
-12
-regular
-basis.
-said,
-told
-mother
-several
-years
-ago,
-nothing
-it.
-sister
-approximately
-year
-half
-younger
-is,
-sexually
-abused
-brothers
-will,
-one
-occasion.
-says
-seen
-regular
-basis
-every
-time
-sees
-feels
-hurt
-acknowledged
-called
-brother
-abused
-told
-brother's
-wife
-happened.
-brother
-child
-wife
-became
-upset
-him.
-patient
-reports
-originally
-Brooklyn,
-New
-York,
-moved
-Houston
-year
-ago
-daughter.
-also
-expressed
-frustration
-fact
-daughter
-wanted
-removed
-apartment
-initially
-placed
-nursing
-home
-due
-inability
-care
-herself.
-patient
-also
-complains
-daughter
-"trying
-tell
-medications
-take."
-stable
-lithium
-Zyprexa
-according
-daughter
-recently
-taken
-medications,
-changed
-Seroquel,
-daughter
-reports
-decompensated
-since
-then.
-FAMILY
-HISTORY:
-Per
-chart;
-mother
-died
-stroke,
-father
-alcohol
-abuse
-diabetes,
-one
-sister
-diabetes,
-one
-uncle
-died
-leukemia.
-lived
-independently
-apartment
-one
-month
-ago
-daughter
-moved
-nursing
-home.
-father
-molested
-her,
-memories
-returned.
-FAMILY
-HISTORY:
-Significant
-paternal
-grandmother
-mentally
-competent.
-mother
-depressed
-treated.
-mother
-currently
-age
-55.
-paternal
-grandmother
-may
-Schizophrenia.
-also
-family
-history
-paternal
-grandfather
-using
-substance.
-maternal
-aunts
-used
-alcohol,
-maternal
-uncle
-use
-alcohol
-excess.
-maternal
-uncle
-committed
-suicide;
-drowned
-himself.
-Medical
-history
-family
-significant
-son,
-age
-4,
-seizures
-ruled
-out.
-mother
-two
-maternal
-aunts
-thyroid
-disease.
-brother,
-age
-32,
-diabetes,
-maternal
-uncle
-heart
-disease,
-several
-paternal
-great
-aunts
-breast
-cancer.
-ABUSE
-HISTORY:
-Significant
-physically
-abused
-father,
-first
-husband,
-second
-husband.
-sexually
-abused
-father
-age
-5
-age
-18.
-emotionally
-abused
-mother,
-father,
-first
-two
-husbands.
-neglected
-mother
-father.
-contact
-brother.
-first
-remembers
-difficulty
-concentration
-college,
-mother
-pointed
-point
-early
-education,
-one
-teacher
-commented
-may
-problems
-attention-deficit
-hyperactivity
-disorder.
-ABUSE
-HISTORY/TRAUMA/UNUSUAL
-CHILDHOOD
-EVENTS:The
-patient
-really
-feel
-abused
-child,
-significant
-problems
-father
-returned
-second
-army
-tour
-Vietnam.
-met
-father
-2
-years
-age.
-states
-father
-verbally
-abused
-mother.
-recall
-age
-3,
-father
-left
-road,
-order
-shut
-up.
-mother
-eventually
-put
-foot,
-told
-father
-quit
-drinking
-would
-separate,
-father
-chose
-give
-alcohol.
-FAMILY
-PSYCHIATRIC
-HISTORY:The
-patient's
-father
-suffered
-posttraumatic
-stress
-disorder,
-well
-alcoholism.
-patient's
-mother
-similar
-symptoms,
-possibly
-ADHD,
-depression
-mother
-side
-family.
-FAMILY
-MEDICAL
-HISTORY:The
-patient's
-grandfather
-myocardial
-infarction
-age
-40,
-died
-another
-MI
-50's.
-patient's
-mother
-breast
-cancer.
-father
-stroke
-hypertension.
-maternal
-grandmother
-obese
-diabetes
-mellitus.
-maternal
-grandmother
-died
-colon
-cancer.
-came
-Alaska
-1977;
-father
-left
-last
-term
-service
-army
-Germany
-time,
-came
-Alaska
-help
-grandparent
-build
-cabin;
-ended
-staying.
-two
-daughters,
-ages
-8
-6.
-seven
-years
-old,
-raised
-mother
-stepfather.
-sustain
-relationship
-biological
-father
-time
-on.
-son
-currently
-20
-years
-old.
-home
-maker,
-Mr.
-worked
-mother
-restaurant,
-moved
-work
-Borg-Warner
-corporation
-one
-two
-years
-beginning
-Plum
-Industries,
-worked
-14
-years
-worked
-way
-lead
-engineer.
-3
-4
-years
-age,
-playing
-baseball
-cup
-used
-ball,
-brother
-accidentally
-hit
-forehead
-bat;
-lose
-consciousness
-time.
-ABUSE
-HISTORY/TRAUMA/UNUSUAL
-CHILDHOOD
-EVENTS:
-patient
-molested
-cousins
-mother's
-boyfriends.
-mother
-often
-parties,
-children
-unsupervised.
-FAMILY
-PSYCHIATRIC
-HISTORY:
-son
-ADHD.
-daughter
-depression.
-mother
-depression
-possibly
-even
-bipolar
-disorder.
-mother
-substance
-abuse
-issues,
-primarily
-cannabis
-alcohol,
-drugs
-well.
-great
-grandmother
-father's
-side
-Alzheimer's
-disease.
-FAMILY
-MEDICAL
-HISTORY:
-patient's
-mother
-adopted,
-recently
-learned
-family
-medical
-history.
-aunt
-hypothyroidism,
-diabetes
-mellitus
-sides
-family.
-mother
-residing
-Alaska,
-husband
-sent
-here,
-shortly
-thereafter
-evicted
-home
-well;
-building
-sold.
-daughter,
-age
-13,
-twins
-(a
-boy
-girl),
-age
-10.
-CHIEF
-COMPLAINT/HISTORY
-PRESENT
-ILLNESS:
-ABCD
-presents
-visit
-mother,
-Xyz,
-significant
-other,
-Pqr.
-Since
-54
-mg,
-mother
-concerns
-sleeping
-well
-night,
-consistently
-staying
-12:00
-1:00,
-eating
-noonday
-meal
-much
-supper.
-Mother
-reports
-weekends
-medication.
-notice
-sisters
-become
-irritated
-say
-either
-hitting
-bothering
-say,
-"It's
-accident."
-Mother
-reports
-ABCD
-medication
-since
-kindergarten.
-ABCD's
-mother,
-A,
-well
-significant
-other,
-R,
-teachers
-convinced
-needs
-medication
-would
-like
-either
-trial
-trial
-lower
-dose.
-lost
-weight
-mother
-aware
-of,
-getting
-sick
-normal.
-Mood
-control:
-Mother
-reports
-aggressive
-since
-medication,
-getting
-trouble
-school
-aggression
-misbehavior.
-exception
-gets
-occasional
-fights
-sisters.
-Energy:
-Mother
-reports
-lot
-energy.
-FAMILY
-PSYCHIATRIC
-HISTORY:Mother
-reports
-side
-family
-currently
-assessed
-mood
-disorder/bipolar.
-know
-anyone
-else
-family,
-exception
-said
-father's
-behavior
-"weird."
-Biological
-father's
-side
-family,
-mother
-reports
-father
-impulsive.
-also
-domestic
-violence
-mother
-married
-father.
-FAMILY
-SOCIAL
-HISTORY:Biological
-mother
-father
-married
-five
-years.
-Currently,
-father
-deported
-back
-Mexico.
-Mother
-currently
-seeing
-R,
-significant
-other,
-seeing
-last
-seven
-months.
-ABCD
-good
-relationship
-R.
-ABCD
-older
-sister,
-M,
-age
-9,
-describe
-gifted
-creative
-without
-attention
-issues
-oppositional
-issues,
-younger
-sister,
-S,
-age
-7,
-mother
-describes
-"all
-wisdom."
-PREGNANCY:
-Mother
-reports
-pregnancy
-within
-normal
-limits
-well
-labor
-birth;
-although,
-exposed
-domestic
-violence
-ABCD
-utero.
-PHYSICAL
-ABUSE:
-Mother
-ABCD
-deny
-history
-physical
-sexual
-abuse
-emotional
-abuse,
-exception
-exposure
-domestic
-violence
-young,
-age
-2
-before.
-DISCIPLINE
-PROBLEMS:
-Mother
-reports
-ABCD
-cuddly
-infant
-could
-sleep
-well.
-grades
-okay,
-per
-mother.
-asked
-talks
-hurt
-upset,
-stated,
-"Mom."
-(At
-first,
-said
-video
-games,
-said
-mom).
-MENTAL
-STATUS
-EXAM:
-long
-appointment,
-approximately
-two
-hours
-length,
-due
-mother
-significant
-many
-questions.
-STRENGTHS
-SUPPORTS:
-strong
-support
-system
-mother,
-grandmother,
-mother's
-significant
-other,
-Richard.
-sense
-humor
-positive
-relationship
-mother
-significant
-other,
-well
-good
-school
-behavior.
-CLINICAL
-IMPRESSION:
-difficult
-know
-trialed
-medication
-whether
-truly
-attention
-deficit
-oppositional
-behavior,
-due
-mother
-since
-last
-appointment
-created
-lot
-structure
-life.
-possibility
-ABCD
-could
-underlying
-mood
-disorder
-mother
-assessed
-bipolar
-due
-history
-father's
-risk-taking
-behaviors,
-drug
-alcohol
-use,
-well
-impulsivity.
-Also
-mother
-reports
-things
-get
-noisy
-chaotic
-around
-ABCD,
-report
-head
-hurts
-feels
-much
-going
-head.
-PROGNOSIS:Good,
-due
-mother
-significant
-invested
-ABCD's
-care.
-gave
-mother
-NICHQ
-Vanderbilt
-Assessment
-Scales
-thatscreen
-ADHD,
-well
-anxiety,
-oppositional
-defiant
-disorder,
-conduct
-disorder,
-depression,
-mood.
-mother
-Richard,
-well
-teachers,
-screen
-medication
-medication.
-Encouraged
-mother
-continue
-Love
-Logic
-1-2-3
-Magic
-parenting
-techniques.
-Sample
-Type:
-Psychiatry
-Sample
-Name:
-Psychiatric
-Evaluation
--
-4
-Description:
-Admission
-Psychiatric
-Evaluation(Medical
-Transcription
-Sample
-Report)
-ADMISSION
-PSYCHIATRIC
-EVALUATIONIDENTIFYING
-INFORMATION/REFERRAL
-DATA:
-16-year-old
-Caucasian
-adolescent
-female
-going
-ninth
-grade
-lives
-mother,
-mother's
-boyfriend,
-12,
-11,
-10-year-old
-sister.
-patient
-brought
-mother
-picked
-Anchorage
-Police
-Department
-(APD).
-APD
-picked
-runaway
-brought
-mother's
-request
-friends
-told
-mother
-suicidal.
-mother
-found
-journals
-room
-talking
-suicide,
-raped.
-mother
-last
-two
-months
-Ketchican
-boyfriend,
-Michael,
-followed
-Anchorage.
-irritable
-verbal
-altercations
-wither
-sister
-14.
-mother
-concerned
-patent's
-safety
-feels
-able
-control
-her.
-went
-live
-dad
-age
-16.
-living
-mother
-mother's
-boyfriend
-last
-two
-months.
-December,
-grandmother
-passed
-away
-grandmother
-mother
-process,
-started
-feeling
-depressed.
-DEVELOPMENT
-AGE
-FACTORS:
-mother
-reports
-born
-jaundice
-eczema.
-allegation
-rape
-mother
-found
-journal,
-going
-investigated.
-DISCUSSION:
-16-year-old
-adolescent
-girl
-reports
-last
-eight
-months,
-since
-December
-grandmother
-passed
-away,
-feeling
-depressed
-sad.
-ran
-away
-house,
-suicidal
-gesture
-reported
-friends,
-denies,
-journals
-house
-dark
-subjects
-suicidal
-ideations
-found
-mother.
-mother
-afraid
-able
-control
-her.
-accompanied
-office
-sister-in-law
-drove
-appt.
-stated
-sister-in-law
-wife
-told
-become
-violent
-fought
-Sherriff
-trying
-take
-hospital.
-one
-daughter
-age
-13.
-able
-complete
-answers
-20
-minutes
-observed
-letting
-sister-in-law
-fill
-him.
-married
-since
-1995
-lost
-son
-SIDS
-seven
-years
-ago.
-Questions
--
-Answers(Medical
-Transcription
-Sample
-Report)
-DONOR'S
-PERCEPTION
-RECIPIENT'S
-ILLNESS:What
-understanding
-recipient's
-illness
-need
-kidney
--
-"This
-kidney
-mother
-dialysis
-mother
-suffering
-long
-enough,
-want
-relieve
-suffering
-able
-kidney
-transplant."
-subject
-donation
-arise
--
-"My
-mom
-talked
-together
-family."
-Well,
-since
-talking,
-"I
-tell
-mother
-really
-understand.
-don't
-think
-mom
-really
-understands,
-know
-really
-needs
-kidney.
-CANDIDATE'S
-MOTIVATION
-DONATE:How
-arrive
-decision
-donor
--
-"My
-brothers
-sisters
-got
-together
-decided
-since
-schedule
-flexible
-used
-traveling,
-seem
-like
-best
-candidate."
-CANDIDATE'S
-MOTIVATION
-DONATE:How
-would
-feel
-cannot
-donor
-reason
--
-"I
-would
-feel
-upset
-know
-best
-mother,
-want
-badly
-mother.
-CANDIDATE'S
-DESCRIPTION
-RELATIONSHIP
-RECIPIENT:What
-relationship
-recipient
--
-"That
-mother."
-know
-feel
-better
-mother,
-mother
-always
-sacrificing
-helping
-others."
-expectations
-recuperation
--
-"I
-planning
-staying
-mom
-three
-months
-Houston
-area
-transplant.
-AGE
-HEALTH
-SPOUSE/PARTNER:
-40s
-healthy
-lives
-outside
-Tampo
-6-year-old
-daughter.
-allowed
-flexible
-best
-candidate
-donation
-mom."
-ASSESSMENT:
-43-year-old
-married,
-African-American
-female
-presents
-donor
-assessment
-preparation
-possible
-kidney
-donation
-mother.
-FATHER:
-Father
-died
-2001,
-age
-62
-cardiac
-cancer.
-MOTHER:
-Dolorous
-Massey
-63
-good
-health.
-RELATIONSHIP
-FAMILY
-MEMBERS/IDENTIFIED
-PRIMARY
-SUPPORT
-SYSTEM:
-close
-brother.
-DONOR
-PLANS:
-Either
-husband
-brother,
-older
-children
-try
-donor.
-Mother
-said
-next
-day,
-wonderful
-improvement,
-well
-medicine.
-PLAN:
-Discussed
-mother
-two
-options.
-Mother
-watch
-diet.
-Mother
-understands
-call
-problems.
-suggested
-mother
-bipolar
-disorder.
-started
-thoughts
-killing
-mother.
-PSYCHOSOCIAL
-STATUS:
-patient
-lives
-mother
-staying
-years
-now.
-sister
-also
-supportive
-him.
-two
-daughters
-one
-marriage,
-ages
-15
-22.
-reports
-children's
-mothers
-turned
-him.
-wife
-son
-note
-temazepam
-makes
-groggy
-disoriented
-times
-home.
-MENTAL
-STATUS
-EXAMINATION:
-average-sized
-white
-male,
-casually
-dressed,
-wife
-son
-bedside.
-According
-mother,
-patient
-past
-major
-medical
-psychiatric
-illnesses.
-Currently,
-patient
-lives
-mother
-requires
-assistance
-perform
-ADLs
-patient
-become
-ataxic
-since
-November
-2006.
-FAMILY
-MEDICAL
-HISTORY:
-Father's
-grandmother
-diagnosed
-Alzheimer
-disease
-70s
-symptoms
-similar
-patient
-described
-patient's
-mother.
-Both,
-mother's
-father
-father's
-mother
-"nervous
-breakdowns"
-unknown
-dates.
-SOCIAL
-HISTORY:
-patient
-lives
-mother,
-takes
-care
-patient's
-ADLs.
-indication
-precipitated
-symptoms,
-mother
-aware
-factors
-patient
-unable
-communicate.
-states
-disciplined
-primarily
-father
-spankings.
-states
-occasion
-mother
-would
-use
-belt
-spank
-hand
-spoon.
-SOCIAL
-HISTORY:
-patient's
-mother
-age
-66,
-father
-age
-70,
-brother
-age
-44.
-brother
-incarcerated
-numerous
-times
-assaults
-difficulty
-anger
-rage.
-patient's
-father
-machinist
-describes
-somewhat
-narcissistic
-alcohol
-abuse
-problem.
-patient's
-mother
-arthritic.
-states
-mother
-stopped
-working
-middle
-age
-laid
-appears
-somewhat
-reclusive.
-patient
-family
-history
-breast
-cancer
-within
-mother
-age
-58.
-Mother
-(migraine
-HA).
-Father
-22yr
-old
-brother
-alive
-well.
-visiting
-son
-time.
-son
-drove
-Back
-Iowa.
-9)
-SNHLFHX:
-Father
-died,
-MI
-age
-61.
-FHX:
-Mother
-died
-age
-89
-"old
-age."
-Father
-died
-age
-89
-stroke.
-Brother,
-age
-74
-CAD,
-Sister
-died
-age
-30
-cancer.
-Father
-tremors
-following
-stroke.
-Brother
-died
-brain
-aneurysm.
-FHX:
-HTN,
-Colon
-CA,
-daughter
-unknown
-type
-"dystonia."
-2:00AM
-11/28/97,
-got
-go
-bathroom
-collapsed
-mother's
-arms.
-mother
-noted
-appeared
-weak
-left
-side.
-FHX:
-Grand
-Aunt
-(stroke),
-MG
-(CAD),
-Mother
-(CAD,
-died
-MI
-age
-63),
-Father
-(with
-unknown
-CA),
-Sisters
-(HTN),
-DM
-relatives.
-BIRTH
-HX:
-Spontaneous
-Vaginal
-delivery
-36weeks
-gestation
-G2P1
-mother.
-Mother
-reportedly
-"flu"
-7th
-8th
-month
-gestation.
-Family
-history
-sister
-breast
-cancer
-age
-43.
-Breast
-cancer
-reported
-maternal
-aunt.
-patient's
-sister
-also
-diagnosed
-breast
-cancer
-age
-59.
-Two
-weeks
-prior
-evaluation
-UIHC
-agreed
-sister
-pick
-church
-8:15AM,
-Sunday
-morning.
-Sunday
-went
-pick
-sister
-sister's
-home
-sister
-(because
-sister
-gone
-pick
-patient)
-patient
-left.
-later
-called
-sister
-asked
-(sister)
-overslept.
-MEDS:
-NoneFHX:
-Father
-died
-MI,
-Mother
-DM
-type
-II.
-FHX:
-Mother
-alive
-h/o
-HTN
-stroke.
-Father
-died
-motor
-vehicle
-accident
-age
-40
-years.
-PMH:
-1)Born
-37.5
-weeks
-gestation
-uncomplicated
-vaginal
-delivery
-G1P0
-mother.
-SHX:
-lives
-biologic
-father
-mother.
-FHX:
-Migraine
-headaches
-maternal
-side,
-including
-mother.
-FHX:
-Mother
-died
-MI,
-age
-70.
-Father
-died
-prostate
-cancer,
-age
-80.
-FHX:
-know
-father
-contact
-mother.
-FHX:
-Father
-died
-MI,
-age
-80.
-Mother
-died
-MI,
-age73.
-Brother
-died
-Brain
-tumor,
-age
-9.
-drove
-visit
-sister
-Muscatine,
-Iowa,
-without
-accident.
-FHX:
-Father
-Von
-Hippel-Lindau
-Disease.
-divorced
-two
-sons
-healthy.
-lives
-mother.
-FHX:
-Father
-HTN
-h/o
-strokes
-ages
-45
-80;
-82
-years
-old.
-Mother
-DM
-age
-80.
-FHX:
-Father
-died
-age
-59
-valvular
-heart
-disease.
-Mother
-died
-DM.
-Brother
-CABG
-8/95.
-Father
-died
-renal
-CA.
-BIRTH
-HX:
-32
-weeks
-gestation
-G4
-mother
-weighed
-4#11oz.
-also
-son
-lumbar
-spine
-disease.
-FAMILY
-HISTORY:
-Patient
-admits
-family
-history
-rheumatoid
-arthritis
-associated
-maternal
-grandmother.
-walks
-daughter
-school
-back
-home
-day
-takes
-20
-minutes
-way.
-(Medical
-Transcription
-Sample
-Report)
-SUBJECTIVE:
-46-year-old
-white
-male
-Down’s
-syndrome
-presents
-mother
-followup
-hypothyroidism,
-well
-onychomycosis.
-mother
-notes
-although
-like
-take
-medications,
-taking
-encouragement.
-Sample
-Type:
-SOAP
--
-Chart
-Notes
-Sample
-Name:
-Fifth
-Disease
--
-SOAP
-Description:
-Fifth
-disease
-sinusitis(Medical
-Transcription
-Sample
-Report)
-SUBJECTIVE:
-Grandfather
-brings
-patient
-today
-headaches,
-mostly
-face.
-FAMILY
-HISTORY:
-Sister
-dizzy
-acute
-illnesses.
-fact,
-dad
-diabetes
-brother
-diabetes.
-family
-history
-colon
-cancer
-questionable
-mother,
-deceased.
-Sample
-Type:
-SOAP
--
-Chart
-Notes
-Sample
-Name:
-Gen
-Med
-Progress
-Note
--
-6
-Description:
-3-year-old
-male
-brought
-mother
-concerns
-eating
--
-particular
-eater,
-eating
-much
-general.
-(Medical
-Transcription
-Sample
-Report)
-SUBJECTIVE:
-3-year-old
-male
-brought
-mother
-concerns
-eating.
-PLAN:
-talked
-mother
-this.
-Apparently,
-brother
-similar
-symptoms.
-eaten
-chicken
-ate
-next
-day,
-could
-quite
-understand
-problem
-little
-bit
-language
-barrier,
-although
-dad
-trying
-hard
-explain
-happened.
-way,
-brother
-got
-done
-eating
-chicken,
-felt
-bad
-continued
-feel
-bad.
-daughter
-says
-check
-periodically
-similar
-today’s
-reading.
-also
-thinks
-since
-Lexapro,
-somewhat
-tremor
-basically
-whole
-body
-least
-upper
-body
-including
-torso
-arms
-daughters
-noticed
-speak
-certainly
-difficult
-tell
-today
-much
-tremor.
-acute
-distress,
-accompanied
-daughter.
-Daughter
-mentioned
-today
-thinks
-mom
-pretty
-well,
-especially
-given
-turning
-90
-later
-month
-would
-tend
-agree
-that.
-Patient
-shoulder
-bursitis,
-pharyngitis,
-attention
-deficit
-disorder,
-(Medical
-Transcription
-Sample
-Report)
-S:
-patient
-today
-mom
-several
-complaints.
-mom
-concerned.
-moms
-insistence,
-refer
-ENT
-possible
-tonsillectomy.
-Mother
-died
-congestive
-heart
-failure.
-Father
-died
-myocardial
-infarction
-age
-56.
-Brother
-died
-lymphoma.
-one
-brother
-living
-angioplasties
-x
-2.
-one
-brother
-asthma.
-FAMILY
-HISTORY:
-Father
-died
-age
-84.
-Mother
-died
-80s
-congestive
-heart
-failure.
-two
-brothers
-six
-sisters
-living
-remain
-good
-health.
-told
-would
-try
-talk
-sister
-sometime
-next
-day
-two.
-followup
-appointment
-Dr.
-F.
-day
-dismissed,
-nephew
-called
-stating
-prescriptions
-lost,
-instructions
-lost,
-etc.
-FAMILY
-HISTORY:
-Father
-died
-CA
-age
-79.
-Mother
-died
-postoperative
-infection
-age
-81.
-Brother
-died
-pancreatitis
-age
-40
-prior
-history
-mental
-illness.
-Father
-also
-prior
-history
-lung
-cancer.
-Mother
-history
-breast
-cancer.
-Father
-also
-glaucoma.
-Mother
-said
-next
-day,
-wonderful
-improvement,
-well
-medicine.
-PLAN:
-Discussed
-mother
-two
-options.
-Mother
-watch
-diet.
-Mother
-understands
-call
-problems.
-FAMILY
-HISTORY:
-father
-died
-age
-80
-prostate
-cancer.
-mother
-died
-age
-67.
-brother
-died
-age
-70
-bone
-throat
-cancer.
-two
-sons,
-ages
-37
-38
-years
-old
-healthy.
-two
-daughters,
-ages
-60
-58
-years
-old,
-cancer.
-FAMILY
-HISTORY:
-Mother
-50
-healthy.
-Dad
-40
-healthy.
-Half-sister,
-age
-34,
-healthy.
-sister
-age
-10
-yeast
-infections.
-(Medical
-Transcription
-Sample
-Report)
-SUBJECTIVE:
-Mom
-brings
-patient
-today
-sore
-throat
-starting
-last
-night.
-FAMILY
-HISTORY:
-patient's
-father
-also
-suffered
-bilateral
-hip
-osteoarthritis.
-(Medical
-Transcription
-Sample
-Report)
-SUBJECTIVE:
-brother,
-although
-vegetarian,
-elevated
-cholesterol
-medication
-lower
-it.
-Father
-died
-stroke
-many
-years
-ago.
-Mother
-arthritis.
-FAMILY
-HISTORY:
-Mother
-cancer,
-died
-70.
-Father
-died
-unknown
-cause,
-brother
-died
-unknown
-cause.
-DESCRIPTION
-TECHNIQUE:
-Informed
-consent
-obtained
-patient's
-brother.
-DESCRIPTION
-TECHNIQUE:
-Informed
-consent
-obtained
-patient's
-mom.
-TECHNIQUE
-DETAIL:
-informed
-consent
-obtained
-patient
-mother,
-chest
-scanned
-portable
-ultrasound.
-episioproctotomy
-associated
-birth
-seven
-pound
-son
-1998
-immediately
-noted
-spontaneous
-loss
-gas
-stool.
-father
-died
-50s
-acute
-myocardial
-infarction.
-family
-history
-significant
-sister
-breast
-cancer
-age
-34
-daughter
-age
-38.
-Sample
-Type:
-Surgery
-Sample
-Name:
-Circumcision
--
-2
-Description:
-Circumcision
-procedure
-(neotal)(Medical
-Transcription
-Sample
-Report)
-CIRCUMCISION
--
-NEONATALPROCEDURE::
-procedure,
-risks
-benefits
-explained
-patient's
-mom,
-consent
-form
-signed.
-little
-boy
-given
-back
-mom.
-known
-mother
-coronary
-heart
-disease.
-undergoes
-dialysis
-Monday,
-Wednesday,
-Friday
-DaVita
-Alameda
-care
-Dr.
-P.
-underwent
-coronary
-bypass
-surgery
-2000
-cardiologist
-Dr.
-T.
-lives
-husband
-also
-son
-home
-active
-lady.
-FAMILY
-HISTORY:
-Patient
-admits
-family
-history
-gout
-attacks
-associated
-father.
-FAMILY
-HISTORY:
-Father
-died
-CA
-age
-79.
-Mother
-died
-postoperative
-infection
-age
-81.
-Brother
-died
-pancreatitis
-age
-40
-prior
-history
-mental
-illness.
-Father
-also
-prior
-history
-lung
-cancer.
-Mother
-history
-breast
-cancer.
-Father
-also
-glaucoma.
-FAMILY
-MEDICAL
-HISTORY:
-patient's
-mother
-history
-Diabetes
-breast
-cancer.
-Sample
-Type:
-Urology
-Sample
-Name:
-Circumcision
--
-2
-Description:
-Circumcision
-procedure
-(neotal)(Medical
-Transcription
-Sample
-Report)
-CIRCUMCISION
--
-NEONATALPROCEDURE::
-procedure,
-risks
-benefits
-explained
-patient's
-mom,
-consent
-form
-signed.
-little
-boy
-given
-back
-mom.
-FAMILY
-HISTORY:
-Patient
-admits
-family
-history
-heart
-attack
-associated
-father
-(deceased).
-Mother
-died
-congestive
-heart
-failure.
-Father
-died
-myocardial
-infarction
-age
-56.
-Brother
-died
-lymphoma.
-one
-brother
-living
-angioplasties
-x
-2.
-one
-brother
-asthma.
-FAMILY
-HISTORY:
-Father
-died
-age
-84.
-Mother
-died
-80s
-congestive
-heart
-failure.
-two
-brothers
-six
-sisters
-living
-remain
-good
-health.
-FAMILY
-HISTORY:
-Positive
-coronary
-artery
-disease
-(father
-&
-brother).
-told
-would
-try
-talk
-sister
-sometime
-next
-day
-two.
-TECHNIQUE
-DETAIL:
-informed
-consent
-obtained
-patient
-mother,
-chest
-scanned
-portable
-ultrasound.
-Family
-Medical
-History:
-Father
-age
-79,
-history
-cerebrovascular
-accident
-(stroke)
-hypertension.
-Mother
-history
-CHF
-emphysema
-died
-age
-74.
-brothers
-sisters.
-date
-motor
-vehicle
-accident,
-sitting
-right
-front
-passenger's
-seat,
-wearing
-seat
-shoulder
-belt
-safety
-harnesses,
-1996
-1997
-Volvo
-850
-Wagon
-automobile
-driven
-son.
-FAMILY
-HISTORY:
-reports
-father
-angina
-mother
-eosinophilia.
-brothers
-sisters.
-FAMILY
-HISTORY:
-patient's
-father
-also
-suffered
-bilateral
-hip
-osteoarthritis.
-FAMILY
-HISTORY:
-Mother
-deceased
-age
-55
-breast
-cancer
-also
-type
-2
-diabetes.
-Father
-deceased
-known
-cause.
-Strong
-family
-history
-diabetes
-mother,
-grandmother,
-sisters,
-maternal
-aunts,
-uncles.
-SOCIAL
-HISTORY:
-works
-cook
-nursing
-home,
-single
-one
-daughter.
-married
-2
-sons,
-ages
-5
-17
-years
-old.
-FAMILY
-HISTORY:
-similar
-illness
-family,
-except
-hypertension
-one
-sister
-mom,
-died
-61
-years
-old
-congestive
-heart
-failure.
-father
-67
-years
-old,
-currently
-alive
-asthma.
-also
-one
-sister
-hypertension.
-One
-grandmother
-passed.
-FAMILY
-HISTORY:
-Patient
-admits
-family
-history
-cancer
-breast
-associated
-mother.
-comes
-mother
-history
-taken.
-states
-sexually
-active
-declined
-mother
-leave
-room,
-questioned
-regarding
-without
-mother
-present.
-FAMILY
-HX:
-Significant
-maternal
-grandfather
-adult-onset
-diabetes,
-maternal
-grandmother
-hypertension,
-mother
-depression,
-father
-died
-colon
-cancer
-32
-years
-age.
-also
-paternal
-great
-grandfather
-diagnosed
-colon
-cancer.
-FAMILY
-HX:
-Maternal
-grandfather
-MI
-reports
-secondary
-tobacco
-alcohol
-use.
-currently
-metastatic
-melanoma,
-mother
-hypertension
-depression,
-father
-alcoholism.
-FAMILY
-HISTORY:
-Significant
-two
-brothers
-father
-cancer.
-FAMILY
-HISTORY:
-Parent
-admits
-family
-history
-Alzheimer's
-disease
-associated
-paternal
-grandmother.
-child
-accompanied
-mother
-communicates
-well
-English.
-Family
-Medical
-History:
-Father
-age
-79,
-history
-cerebrovascular
-accident
-(stroke)
-hypertension.
-Mother
-history
-CHF
-emphysema
-died
-age
-74.
-brothers
-sisters.
-notes
-brother
-treated
-12
-years
-ago
-brain
-tumor
-recurrence
-surgery
-again.
-two
-daughters
-one
-marriage,
-ages
-15
-22.
-reports
-children's
-mothers
-turned
-him.
-wife
-son
-note
-temazepam
-makes
-groggy
-disoriented
-times
-home.
-MENTAL
-STATUS
-EXAMINATION:
-average-sized
-white
-male,
-casually
-dressed,
-wife
-son
-bedside.
-According
-mother,
-patient
-past
-major
-medical
-psychiatric
-illnesses.
-Currently,
-patient
-lives
-mother
-requires
-assistance
-perform
-ADLs
-patient
-become
-ataxic
-since
-November
-2006.
-FAMILY
-MEDICAL
-HISTORY:
-Father's
-grandmother
-diagnosed
-Alzheimer
-disease
-70s
-symptoms
-similar
-patient
-described
-patient's
-mother.
-Both,
-mother's
-father
-father's
-mother
-"nervous
-breakdowns"
-unknown
-dates.
-SOCIAL
-HISTORY:
-patient
-lives
-mother,
-takes
-care
-patient's
-ADLs.
-indication
-precipitated
-symptoms,
-mother
-aware
-factors
-patient
-unable
-communicate.
-states
-disciplined
-primarily
-father
-spankings.
-states
-occasion
-mother
-would
-use
-belt
-spank
-hand
-spoon.
-SOCIAL
-HISTORY:
-patient's
-mother
-age
-66,
-father
-age
-70,
-brother
-age
-44.
-brother
-incarcerated
-numerous
-times
-assaults
-difficulty
-anger
-rage.
-patient's
-father
-machinist
-describes
-somewhat
-narcissistic
-alcohol
-abuse
-problem.
-patient's
-mother
-arthritic.
-states
-mother
-stopped
-working
-middle
-age
-laid
-appears
-somewhat
-reclusive.
-HISTORY
-PRESENT
-ILLNESS:
-patient
-62-year-old
-white
-female
-past
-medical
-history
-left
-frontal
-glioblastoma
-subsequent
-craniotomy
-infection
-PE,
-DVT,
-hyperlipidemia,
-hypertension
-according
-patient's
-daughter
-expressing
-signs
-depression.
-FAMILY
-MEDICAL
-HISTORY:
-Father
-lung
-cancer,
-smoker
-40
-years.
-Father's
-aunt
-heart
-disease.
-one
-younger
-brother,
-one
-daughter.
-child
-per
-daughter
-picked
-strained
-relationship
-mother,
-still
-communicating.
-Poor
-concentration,
-mood
-unknown
-(the
-patient
-respond
-questions),
-affect
-flat,
-thought
-process
-logical
-goal
-directed,
-thought
-content
-unable
-assess
-patient
-patient's
-daughter
-denied
-delusions
-homicidal
-ideations.
-One
-son
-Texas
-City
-1
-daughter
-Florida.
-2
-sisters
-brother
-diabetes
-mellitus
-coronary
-artery
-disease.
-HISTORY
-PRESENT
-ILLNESS:
-patient
-42-year-old
-white
-male
-history
-seizures
-brought
-ER
-ABCD
-sister
-following
-cocaine
-nitrous
-oxide
-use.
-patient
-work
-since
-brother
-became
-ill
-3
-months
-ago
-quit
-job
-care
-her.
-Sample
-Name:
-Psych
-H&P
--
-1
-Description:
-Psychiatric
-History
-Physical
--
-Patient
-major
-depression(Medical
-Transcription
-Sample
-Report)
-HISTORY
-PRESENT
-ILLNESS:
-40-year-old
-white
-single
-man
-hospitalized
-XYZ
-Hospital
-mental
-health
-ward,
-issues
-filled
-sister
-mother.
-issues
-involved
-include
-fact
-last
-10
-years
-disability
-psychiatric
-reasons
-working,
-last
-several
-weeks
-month
-began
-call
-family
-talking
-fact
-sexually
-abused
-brother.
-brother
-approximately
-8
-years
-older,
-sexually
-abused
-brother
-4
-years
-older.
-brother
-8
-years
-older
-lives
-California
-contact
-family,
-minimal
-contact
-many
-years.
-brother
-California
-gay.
-brother
-4
-years
-older,
-sexually
-abused,
-patient
-age
-8
-12
-regular
-basis.
-said,
-told
-mother
-several
-years
-ago,
-nothing
-it.
-sister
-approximately
-year
-half
-younger
-is,
-sexually
-abused
-brothers
-will,
-one
-occasion.
-says
-seen
-regular
-basis
-every
-time
-sees
-feels
-hurt
-acknowledged
-called
-brother
-abused
-told
-brother's
-wife
-happened.
-brother
-child
-wife
-became
-upset
-him.
-patient
-reports
-originally
-Brooklyn,
-New
-York,
-moved
-Houston
-year
-ago
-daughter.
-also
-expressed
-frustration
-fact
-daughter
-wanted
-removed
-apartment
-initially
-placed
-nursing
-home
-due
-inability
-care
-herself.
-patient
-also
-complains
-daughter
-"trying
-tell
-medications
-take."
-stable
-lithium
-Zyprexa
-according
-daughter
-recently
-taken
-medications,
-changed
-Seroquel,
-daughter
-reports
-decompensated
-since
-then.
-FAMILY
-HISTORY:
-Per
-chart;
-mother
-died
-stroke,
-father
-alcohol
-abuse
-diabetes,
-one
-sister
-diabetes,
-one
-uncle
-died
-leukemia.
-lived
-independently
-apartment
-one
-month
-ago
-daughter
-moved
-nursing
-home.
-FAMILY
-HISTORY:
-Patient
-admits
-family
-history
-rheumatoid
-arthritis
-associated
-maternal
-grandmother.
-FAMILY
-HISTORY:
-Patient
-admits
-family
-history
-arthritis
-associated
-mother.
-HISTORY
-PRESENT
-ILLNESS:
-9-year-old
-African-American
-male
-mother
-well-child
-check.
-Mother
-concerns
-time
-visit.
-could
-better
-milk
-intake,
-Mother
-states
-eat
-cheese
-yogurt.
-behavior
-issues,
-sometimes
-tries
-emulate
-brother
-negative
-behaviors.
-father
-alcoholic.
-currently
-lives
-sister,
-work;
-collects
-pension.
-goes
-Texas,
-Mom
-appointment
-already
-see
-allergist
-needs
-find
-primary
-care
-physician
-ask
-record
-release.
-mother
-well-child
-check.
-Mother
-states
-well
-regard
-asthma
-allergies.
-done
-over-the-counter
-Claritin
-seems
-help
-always
-sniffling
-mother
-reports.
-Growth
-chart
-reviewed
-mother.
-test
-vision
-recently
-saw
-eye
-doctor
-though
-discuss
-need
-wear
-glasses
-mother.
-FAMILY
-HISTORY:
-Patient
-admits
-family
-history
-cataract
-associated
-maternal
-grandmother,headaches/migraines
-associated
-maternal
-aunt.
-FAMILY
-MEDICAL
-HISTORY:
-patient's
-mother
-history
-Diabetes
-breast
-cancer.
-HISTORY
-PRESENT
-ILLNESS:
-12-month-old
-female
-mother
-well-child
-check.
-Mother
-states
-well.
-Mother
-states
-diagnosed
-blocked
-tear
-duct
-side
-shortly
-birth,
-normally
-crusted
-secretions
-every
-morning.
-VIS
-statements
-given
-Mother
-discussion.
-Keywords:
-consult
--
-history
-phy.,
-well-child
-check,
-drainage,
-eye,
-lacrimal
-duct
-stenosis,
-lacrimal
-duct,
-mmr,
-varivax,
-vis
-statements,
-tear
-duct,
-lacrimal,
-percentile,
-mother,
-child,
-FAMILY
-HISTORY:
-mother
-nursing
-home;
-stroke.
-father
-died
-age
-86
-January
-2004
-congestive
-heart
-failure.
-two
-brothers,
-one
-kidney
-failure,
-brother
-donated
-kidney
-brother,
-young
-man
-alcoholic
-drug
-addict.
-lives
-boyfriend
-father.
-Father
-died
-stroke
-many
-years
-ago.
-Mother
-arthritis.
-FAMILY
-HISTORY:
-Mother
-cancer,
-died
-70.
-Father
-died
-unknown
-cause,
-brother
-died
-unknown
-cause.
-father
-died
-50s
-acute
-myocardial
-infarction.
-Mom
-says
-things
-gone
-well.
-Growth
-chart
-reviewed
-Mom.
-FAMILY
-HISTORY:
-father
-type
-diabetes
-heart
-disease.
-brother
-heart
-attack
-age
-52.
-FAMILY
-HISTORY:
-Includes
-diabetes
-father
-side
-family.
-also
-son
-lumbar
-spine
-disease.
-states
-daughter's
-father
-argument
-state
-relationship.
-currently
-separated
-partner
-father
-21-month-old
-daughter.
-FAMILY
-HISTORY:
-Mother
-died
-age
-59
-due
-stomach
-cancer
-father
-died
-age
-91
-years
-old.
-(Medical
-Transcription
-Sample
-Report)
-SUBJECTIVE:
-brother,
-although
-vegetarian,
-elevated
-cholesterol
-medication
-lower
-it.
-FAMILY
-HISTORY:
-Patient
-admits
-family
-history
-anxiety,
-stress
-disorder
-associated
-mother.
-walks
-daughter
-school
-back
-home
-day
-takes
-20
-minutes
-way.
-HISTORY
-PRESENT
-ILLNESS:
-12-year-old
-white
-male
-mother
-complaints
-right
-ear
-hurting.
-Mother
-states
-complaining
-several
-days.
-(Medical
-Transcription
-Sample
-Report)
-PRESENTATION:
-Patient,
-13
-years
-old,
-comes
-office
-mother
-complaining
-severe
-ear
-pain.
-awoke
-night
-severe
-ear
-pain,
-mom
-states
-third
-time
-year
-earaches.
-Mom
-reports
-patient
-afebrile
-earache
-episodes,
-upper
-respiratory
-symptoms.
-BIRTH
-DEVELOPMENTAL
-HISTORY:
-Patient's
-mother
-reports
-normal
-pregnancy
-complications,
-received
-prenatal
-care
-12
-weeks.
-FAMILY/SOCIAL
-HISTORY:
-Patient
-lives
-parents
-two
-siblings
-(brother
--
-age
-11
-years,
-sister
--
-age
-15
-years).
-Mom
-reports
-several
-friends,
-concerned
-time
-required
-wrestling
-team.
-Dad
-hypertension
-frequent
-heartburn
-symptoms
-treats
-over-the-counter
-(OTC)
-medications.
-Mom
-healthy
-asthma.
-Patient's
-Mom
-states
-takes
-prescribed
-medications
-OTC
-medications,
-admits
-taking
-dad's
-OTC
-Pepcid
-AE
-sometimes
-gets
-heartburn.
-Mom
-sister
-cooks
-supper
-evening.
-family
-goes
-eat
-twice
-week
-gets
-"fast
-food"
-twice
-week
-according
-Mom.
-history
-"heartburn"
-relieved
-father's
-medication
-striking.
-PLAN:
-Patient
-Mom
-agreed
-trial
-omeprazole
-20
-mg
-bedtime
-2
-weeks.
-FAMILY
-HISTORY:
-Patient
-admits
-family
-history
-gout
-attacks
-associated
-father.
-FAMILY
-HISTORY:
-Mother
-hypertension,
-depression.
-Father
-renal
-cysts
-sometimes
-stomach
-problems.
-three
-grown
-sons,
-successful
-professional
-positions.
-One
-son
-gastroenterologist
-San
-Diego,
-California.
-far
-cancer
-two
-cousins
-breast
-cancer.
-far
-diabetes
-father
-grandfather
-type
-II
-diabetes.
-Son
-type
-diabetes
-struggling
-moment.
-Mother
-would
-concerned
-possibility
-coronary
-artery
-disease
-given
-patient’s
-underlying
-risk
-factors.
-FAMILY
-HISTORY:
-Father
-passed
-away
-81;
-mother
-multiple
-myeloma
-83.
-FAMILY
-HISTORY:
-Positive
-coronary
-artery
-disease
-(father
-&
-brother).
-FAMILY
-HISTORY:
-Benign
-breast
-lump
-mother;
-however,
-paternal
-grandmother
-breast
-cancer.
-Sample
-Name:
-Gen
-Med
-Consult
--
-17
-Description:
-18-month-old
-white
-male
-mother
-complaint
-intermittent
-fever
-past
-five
-days.
-HISTORY
-PRESENT
-ILLNESS:
-18-month-old
-white
-male
-mother
-complaint
-intermittent
-fever
-past
-five
-days.
-Mother
-states
-completed
-Amoxil
-several
-days
-ago
-sinus
-infection.
-Mother
-states
-temperature
-usually
-elevates
-night.
-Mother
-taken
-since,
-fact
-states
-today
-seems
-much
-better.
-PLAN:
-Mother
-advised
-continue
-Zyrtec
-directed
-daily.
-Mother
-also
-worried.
-FAMILY
-SOCIAL
-HISTORY:
-sister
-today
-clinical
-sinusitis.
-Mother
-father
-healthy.
-Foster
-mom
-actually
-going
-town
-week
-19th
-23rd,
-probably
-hospitalized
-respite
-care
-foster
-care
-situations
-handle
-patient.
-Biological
-Mom
-Grandma
-visit
-Thursdays
-hour.
-time
-see
-her,
-impressed,
-relayed
-foster
-mom.
-Keywords:
-consult
--
-history
-phy.,
-chronic
-lung
-disease,
-signs
-infection,
-breathing
-status,
-foster
-mom,
-foster
-care,
-pediasure,
-Mom
-allergy
-trouble
-right
-now.
-Mom
-concerns.
-brought
-mother.
-SOCIAL
-HISTORY:
-Mother
-appears
-loving
-caring.
-Sample
-Name:
-Gen
-Med
-Consult
--
-23
-Description:
-(Medical
-Transcription
-Sample
-Report)
-SUBJECTIVE:
-Mom
-brings
-patient
-today
-possible
-ear
-infection.
-treated
-04/14/2004,
-amoxicillin
-left
-otitis
-Mom
-said
-seem
-get
-better
-started
-complaining
-left
-ear
-pain
-today.
-stated
-brother
-died
-heart
-failure
-age
-72.
-FAMILY
-HISTORY:
-Father
-patient
-died
-age
-69
-CVA.
-Mother
-patient
-died
-age
-79
-"heart
-stopped".
-Four
-siblings
-died,
-two
-due
-diabetes,
-one
-cause
-unknown,
-one
-brother
-died
-age
-72
-heart
-failure.
-patient
-lives
-wife
-daughter
-apartment.
-GEN:
-Elderly
-gentleman
-lying
-bed
-mild
-respiratory
-distress,
-thin,
-tired
-appearing,
-wife
-daughter
-present
-bedside,
-articulate.
-FAMILY
-HISTORY:
-Mother
-61
-years
-old
-brother
-39
-years
-old,
-alive
-well.
-Father
-died
-48
-colon
-cancer
-questionable
-pancreatic
-cancer.
-One
-paternal
-uncle
-died
-32
-colon
-cancer
-bile
-duct
-cancer.
-One
-paternal
-uncle
-colon
-cancer
-40s.
-Thirty
-cancers
-noted
-father’s
-side
-family,
-many
-colon;
-two
-women
-breast
-cancer.
-DNR
-status:
-ad
-discussion
-patient's
-daughter,
-requests
-patient
-receive
-CPR
-intubation
-clinical
-condition
-patient
-respond
-therapy.
-HISTORY
-PRESENT
-ILLNESS:
-patient
-resident
-Mazatlan,
-Mexico,
-visiting
-son
-Utah,
-history
-diabetes.
-SOCIAL
-HISTORY:
-patient
-Mazatlan,
-Mexico
-resident,
-visiting
-son
-here.
-FAMILY
-HISTORY:
-Strongly
-positive
-heart
-disease
-father.
-father
-history
-coronary
-artery
-disease
-multiple
-vascular
-strokes.
-mother
-80,
-also
-dementia.
-FAMILY
-HISTORY:
-Mother
-died
-age
-79
-stroke.
-Father
-died
-age
-91
-old
-age.
-brother
-prostate
-cancer.
-one
-brother
-living.
-Oxygen
-saturation
-98%
-2
-L.
-GENERAL
-APPEARANCE:
-alert
-oriented,
-deferring
-history
-daughters.
-lot
-stress
-associated
-son
-challenges.
-sister
-breast
-carcinoma
-diagnosed
-50s.
-father
-gastric
-carcinoma
-diagnosed
-70s.
-FAMILY
-HISTORY:
-Notable
-mother
-good
-health,
-father
-joint
-problems
-questionable
-celiac
-disease
-well.
-two
-sisters
-one
-brother.
-One
-sister
-interestingly
-inflammatory
-arthritis.
-discussed
-mother
-gold
-standard
-really
-small
-bowel
-biopsy,
-would
-go
-back
-gluten
-diet
-obtain
-study.
-check
-TSH
-well
-CBC
-make
-sure
-anemic
-secondary
-rectal
-bleeding
-sister
-inflammatory
-arthritis,
-go
-ahead
-check
-flexible
-sigmoidoscopy
-make
-sure
-signs
-inflammatory
-bowel
-disease.
-FAMILY
-HISTORY:
-Patient
-admits
-family
-history
-heart
-attack
-associated
-father
-(deceased).
-FAMILY
-HISTORY:
-Mother
-history
-coronary
-artery
-disease.
-inpatient
-management
-patient
-provided
-Dr.
-R.
-patient's
-status
-discussed
-daughter
-husband.
-PAST
-MEDICAL
-HISTORY:
-child
-born
-term
-pregnancy,
-spontaneous
-vaginal
-delivery,
-mother
-teenager.
-SOCIAL
-HISTORY:
-child
-lives
-mother
-father,
-teenagers,
-unmarried,
-well
-educated.
-Grandmother
-heavy
-smoker.
-daughter
-states
-patient
-Life
-Care
-Center,
-believes
-started
-morning.
-Patient
-daughter
-also
-deny
-weight
-loss,
-fevers,
-chills,
-sweats,
-nausea,
-vomiting,
-abdominal
-pain.
-FAMILY
-HISTORY:
-Diabetes,
-Hypertension,
-Father
-Coronary
-Artery
-Bypass
-Graph
-(CABG)
-age
-34.
-FAMILY
-HISTORY:
-Heart
-disease
-grandfathers,
-grandmother
-stroke,
-grandmother
-diabetes.
-leery
-surgical
-procedure,
-even
-referral
-come
-see
-us
-today
-brother
-recently
-died
-complications
-back
-surgery.
-two
-brothers
-ages
-68
-77
-years
-old,
-healthy.
-siblings,
-brother
-sister
-twins
-died
-birth.
-two
-sons
-54
-57
-years
-old
-healthy.
-FAMILY
-HISTORY:
-father
-died
-leukemia.
-mother
-died
-kidney
-heart
-failure.
-two
-brothers;
-five
-sisters,
-one
-breast
-cancer;
-two
-sons;
-daughter.
-seven
-years
-old,
-raised
-mother
-stepfather.
-sustain
-relationship
-biological
-father
-time
-on.
-son
-currently
-20
-years
-old.
-home
-maker,
-Mr.
-worked
-mother
-restaurant,
-moved
-work
-Borg-Warner
-corporation
-one
-two
-years
-beginning
-Plum
-Industries,
-worked
-14
-years
-worked
-way
-lead
-engineer.
-FAMILY
-HISTORY:
-Mother
-died
-cancer,
-unknown
-type.
-Dad
-died
-MI.
-condition
-affects
-patient’s
-brother
-maternal
-grandfather.
-SOCIAL
-HISTORY:
-single
-mother
-one
-adopted
-child.
-mother
-alive.
-father
-deceased
-alcohol.
-FAMILY
-HISTORY:
-Patient
-admits
-family
-history
-anxiety,
-stress
-disorder
-associated
-mother.
-patient’s
-mom
-Tanzania.
-Discussed
-condition
-treatment
-Mom.
-(Medical
-Transcription
-Sample
-Report)
-SUBJECTIVE:
-brother,
-although
-vegetarian,
-elevated
-cholesterol
-medication
-lower
-it.
-walks
-daughter
-school
-back
-home
-day
-takes
-20
-minutes
-way.
-sister
-died
-breast
-cancer
-age
-32
-daughter
-breast
-cancer
-age
-27.
+FAMILY HISTORY: Mother diabetes.
+His mother described congested sounds cough decreased appetite.
+FAMILY HISTORY: Grandmother died cerebral aneurysm.
+FAMILY HISTORY: Positive coronary artery disease (father & brother).
+FAMILY HISTORY: Includes diabetes father side family.
+She states daughter's father argument state relationship.
+She currently separated partner father 21-month-old daughter.
+FAMILY HISTORY: Parent admits family history Alzheimer's disease associated paternal grandmother.
+The child accompanied mother communicates well English.
+She morning Mom.
+HISTORY OF PRESENT ILLNESS: This 12-year-old white male mother complaints right ear hurting.
+Mother states complaining several days.
+(Medical Transcription Sample Report) PRESENTATION: Patient, 13 years old, comes office mother complaining severe ear pain.
+He awoke night severe ear pain, mom states third time year earaches.
+Mom reports patient afebrile earache episodes, upper respiratory symptoms.
+BIRTH AND DEVELOPMENTAL HISTORY: Patient's mother reports normal pregnancy complications, received prenatal care 12 weeks.
+FAMILY/SOCIAL HISTORY: Patient lives parents two siblings (brother - age 11 years, sister - age 15 years).
+Mom reports several friends, concerned time required wrestling team.
+His Dad hypertension frequent heartburn symptoms treats over-the-counter (OTC) medications.
+Mom healthy asthma.
+Patient's Mom states takes prescribed medications OTC medications, admits taking dad's OTC Pepcid AE sometimes gets heartburn.
+Mom sister cooks supper evening.
+The family goes eat twice week gets "fast food" twice week according Mom.
+The history "heartburn" relieved father's medication striking.
+PLAN: Patient Mom agreed trial omeprazole 20 mg bedtime 2 weeks.
+The procedure discussed father mother patient mentally challenged.
+His family history significant father mine, also reflux issues, without true heartburn, distal esophageal stricture.
+The procedure discussed patient, patient's mother.
+PROCEDURE REPORT: Informed consent obtained Mrs. ABC's sister, risks benefits procedure carefully explained, included limited bleeding, infection, perforation, allergic reaction medications.
+FAMILY HISTORY: Mother diabetes.
+FAMILY HISTORY: Notable mother good health, father joint problems questionable celiac disease well.
+She two sisters one brother.
+One sister interestingly inflammatory arthritis.
+I discussed mother gold standard really small bowel biopsy, would go back gluten diet obtain study.
+We check TSH well CBC make sure anemic secondary rectal bleeding sister inflammatory arthritis, go ahead check flexible sigmoidoscopy make sure signs inflammatory bowel disease.
+His father alcoholic.
+He currently lives sister, work; collects pension.
+V. DEPRESSION FOLLOWING RECENT DELIVERY OF TERM INFANT AND RECENT DEATH OF ADULT SON (SEPTEMBER 2006).
+Sample Type: General Medicine Sample Name: Fifth Disease - SOAP Description: Fifth disease sinusitis(Medical Transcription Sample Report) SUBJECTIVE: Grandfather brings patient today headaches, mostly face.
+FAMILY HISTORY: Sister dizzy acute illnesses.
+She three grown sons, successful professional positions.
+One son gastroenterologist San Diego, California.
+As far cancer two cousins breast cancer.
+As far diabetes father grandfather type II diabetes.
+Son type I diabetes struggling moment.
+Mother would concerned possibility coronary artery disease given patient’s underlying risk factors.
+FAMILY HISTORY: Father passed away 81; mother multiple myeloma 83.
+FAMILY HISTORY: Benign breast lump mother; however, paternal grandmother breast cancer.
+Sample Type: General Medicine Sample Name: Gen Med Consult - 17 Description: An 18-month-old white male mother complaint intermittent fever past five days.
+HISTORY OF PRESENT ILLNESS: This 18-month-old white male mother complaint intermittent fever past five days.
+Mother states completed Amoxil several days ago sinus infection.
+Mother states temperature usually elevates night.
+Mother taken since, fact states today seems much better.
+PLAN: Mother advised continue Zyrtec directed daily.
+Mother also worried.
+FAMILY SOCIAL HISTORY: The sister today clinical sinusitis.
+Mother father healthy.
+Foster mom actually going town week 19th 23rd, probably hospitalized respite care foster care situations handle patient.
+Biological Mom Grandma visit Thursdays hour.
+Each time I see her, I impressed, relayed foster mom.
+Keywords: general medicine, chronic lung disease, signs infection, breathing status, foster mom, foster care, pediasure,
+Mom allergy trouble right now.
+Mom concerns.
+Sample Type: General Medicine Sample Name: Gen Med Consult - 23 Description: (Medical Transcription Sample Report) SUBJECTIVE: Mom brings patient today possible ear infection.
+He treated 04/14/2004, amoxicillin left otitis Mom said seem get better started complaining left ear pain today.
+He stated brother died heart failure age 72.
+FAMILY HISTORY: The Father patient died age 69 CVA.
+The Mother patient died age 79 "heart stopped".
+Four siblings died, two due diabetes, one cause unknown, one brother died age 72 heart failure.
+The patient lives wife daughter apartment.
+GEN: Elderly gentleman lying bed mild respiratory distress, thin, tired appearing, wife daughter present bedside, articulate.
+FAMILY HISTORY: Mother 61 years old brother 39 years old, alive well.
+Father died 48 colon cancer questionable pancreatic cancer.
+One paternal uncle died 32 colon cancer bile duct cancer.
+One paternal uncle colon cancer 40s.
+Thirty cancers noted father’s side family, many colon; two women breast cancer.
+DNR status: I ad discussion patient's daughter, requests patient receive CPR intubation clinical condition patient respond therapy.
+HISTORY OF PRESENT ILLNESS: This patient resident Mazatlan, Mexico, visiting son Utah, history diabetes.
+SOCIAL HISTORY: The patient Mazatlan, Mexico resident, visiting son here.
+FAMILY HISTORY: Her father type I diabetes heart disease.
+She brother heart attack age 52.
+FAMILY HISTORY: Strongly positive heart disease father.
+His father history coronary artery disease multiple vascular strokes.
+His mother 80, also dementia.
+FAMILY HISTORY: Mother died age 79 stroke.
+Father died age 91 old age.
+Her brother prostate cancer.
+She one brother living.
+Oxygen saturation 98% 2 L. GENERAL APPEARANCE: She alert oriented, deferring history daughters.
+She lot stress associated son challenges.
+A sister breast carcinoma diagnosed 50s.
+A father gastric carcinoma diagnosed 70s.
+In fact, dad diabetes brother diabetes.
+She family history colon cancer questionable mother, deceased.
+Sample Type: General Medicine Sample Name: Gen Med Progress Note - 6 Description: A 3-year-old male brought mother concerns eating - particular eater, eating much general.
+(Medical Transcription Sample Report) SUBJECTIVE: This 3-year-old male brought mother concerns eating.
+PLAN: I talked mother this.
+Apparently, brother similar symptoms.
+They eaten chicken ate next day, I could quite understand problem little bit language barrier, although dad trying hard explain happened.
+But way, brother got done eating chicken, felt bad continued feel bad.
+Her daughter says check periodically similar today’s reading.
+She also thinks since Lexapro, somewhat tremor basically whole body least upper body including torso arms daughters I noticed speak certainly difficult tell today much tremor.
+She acute distress, accompanied daughter.
+Daughter mentioned today thinks mom pretty well, especially given turning 90 later month I would tend agree that.
+FAMILY HISTORY: Mother died age 59 due stomach cancer father died age 91 years old.
+Patient shoulder bursitis, pharyngitis, attention deficit disorder, (Medical Transcription Sample Report) S: The patient today mom several complaints.
+His mom concerned.
+At moms insistence, refer ENT possible tonsillectomy.
+FAMILY HISTORY: Mother history coronary artery disease.
+Further inpatient management patient provided Dr. R. The patient's status discussed daughter husband.
+The daughter states patient Life Care Center, believes started morning.
+Patient daughter also deny weight loss, fevers, chills, sweats, nausea, vomiting, abdominal pain.
+FAMILY HISTORY: Grandmother died cerebral aneurysm.
+FAMILY HISTORY: Diabetes, Hypertension, Father Coronary Artery Bypass Graph (CABG) age 34.
+FAMILY HISTORY: Mother died cancer, unknown type.
+Dad died MI.
+(Medical Transcription Sample Report) SUBJECTIVE: This 46-year-old white male Down’s syndrome presents mother followup hypothyroidism, well onychomycosis.
+His mother notes although like take medications, taking encouragement.
+She notes brother treated 12 years ago brain tumor recurrence surgery again.
+(Medical Transcription Sample Report) SUBJECTIVE: Mom brings patient today sore throat starting last night.
+His mother described congested sounds cough decreased appetite.
+Her sister died breast cancer age 32 daughter breast cancer age 27.
+FAMILY MEDICAL HISTORY: Father age 85, history cerebrovascular accident (stroke) hypertension.
+Mother history CHF emphysema died age 78.
+No brothers sisters.
+1 son healthy age 54.
+SOCIAL HISTORY: The patient staying mother.
+His brother health care proxy.
+Supportive counseling provided mother.
+SOCIAL HISTORY: The patient lives common law husband daughter.
+The FES, well daughter report significant clinical functional decline last two three weeks.
+A phone conversation daughter, Xyz, health care proxy, ensued.
+His daughter concerned clinical decline raising question whether would benefit hospitalization.
+She reports mother died many-year course heart failure upwards three dozen hospitalizations.
+At hospitalization, seem derive benefit wondered dad would drive equal benefit hospitalizations.
+Present today's visit patient's daughter Ruby, home health attendant, Hospice nurse.
+HISTORY OF PRESENT ILLNESS: History provided primarily patient's daughter, well referring physician revealed approximately two-year history colon cancer initially diagnosed patient presented swelling groin.
+The patient alert lives alone, although daughter Ruby town several weeks care him.
+His appetite notably improved since discharge hospital daughter believe gained pounds weight.
+Of greatest concern daughter possibility colostomy might reversible recommendation physicians referring hospital, PET scan assess whether ostomy reversible various reasons, primarily insurance.
+His daughters, Ruby Camilla involved patient's care.
+The patient lives alone currently well cared daughter town.
+There another in-town daughter; however, works large family.
+The valuables released mother decedent clothing retained law enforcement agency.
+On date motor vehicle accident, sitting right front passenger's seat, wearing seat shoulder belt safety harnesses, 1996 1997 Volvo 850 Wagon automobile driven son.
+FAMILY HISTORY: He reports father angina mother eosinophilia.
+He brothers sisters.
+When seven years old, raised mother stepfather.
+He sustain relationship biological father time on.
+He son currently 20 years old.
+After home maker, Mr. T worked mother restaurant, moved work Borg-Warner corporation one two years beginning Plum Industries, worked 14 years worked way lead engineer.
+Sample AddressRE: Sample PatientDear Doctor:We pleasure seeing Abc mother clinic today.
+Although smoke exposure significant family history Abc's father uncle problems asthma well older sister.
+The parents maintain separate households question consistency medication administration father's house.
+We spent majority 45-minute reviewing basic principles asthma management I believe Abc's mother fairly well versed this.
+I encouraged mother contact office answer questions necessary phone.
+Sincerely, Keywords: letters, gestation, bronchodilator, childhood, childhood asthma, cough, father, healthy, letter, mother, pediatric, prematurity, shortness breath, sister, wheezing, wheezing cough, asthma,
+He known mother coronary heart disease.
+She reports family history glaucoma mother, unsure specific kind.
+She followup appointment Dr. F. The day dismissed, nephew called stating prescriptions lost, instructions lost, etc.
+FAMILY HISTORY: Mother deceased age 55 breast cancer also type 2 diabetes.
+Father deceased known cause.
+Strong family history diabetes mother, grandmother, sisters, maternal aunts, uncles.
+SOCIAL HISTORY: She works cook nursing home, single one daughter.
+He married 2 sons, ages 5 17 years old.
+FAMILY HISTORY: No similar illness family, except hypertension one sister mom, died 61 years old congestive heart failure.
+His father 67 years old, currently alive asthma.
+He also one sister hypertension.
+Questions - Answers(Medical Transcription Sample Report) DONOR'S PERCEPTION OF RECIPIENT'S ILLNESS:What understanding recipient's illness need kidney - "This kidney mother dialysis mother suffering long enough, I want relieve suffering able kidney transplant."
+When subject donation arise - "My mom I talked together family."
+Well, since talking, "I tell mother really understand.
+I don't think mom really understands, I know really needs kidney.
+CANDIDATE'S MOTIVATION TO DONATE:How arrive decision donor - "My brothers sisters I got together decided since schedule flexible I used traveling, I seem like best candidate."
+CANDIDATE'S MOTIVATION TO DONATE:How would feel cannot donor reason - "I would feel upset I know best mother, I want badly mother.
+CANDIDATE'S DESCRIPTION OF RELATIONSHIP WITH RECIPIENT:What relationship recipient - "That mother."
+I know I feel better mother, mother always sacrificing helping others."
+What expectations recuperation - "I planning staying mom three months Houston area transplant.
+AGE AND HEALTH OF SPOUSE/PARTNER: He 40s healthy lives outside Tampo 6-year-old daughter.
+This allowed flexible best candidate donation mom."
+ASSESSMENT: This 43-year-old married, African-American female presents donor assessment preparation possible kidney donation mother.
+FATHER: Father died 2001, age 62 cardiac cancer.
+MOTHER: Dolorous Massey 63 good health.
+RELATIONSHIP WITH FAMILY MEMBERS/IDENTIFIED PRIMARY SUPPORT SYSTEM: She close brother.
+DONOR PLANS: Either husband brother, older children try donor.
+She undergoes dialysis Monday, Wednesday, Friday DaVita Alameda care Dr. P. She underwent coronary bypass surgery 2000 cardiologist Dr. T. She lives husband also son home active lady.
+Mother (migraine HA).
+Father 22yr old brother alive well.
+He visiting son time.
+His son drove Back Iowa.
+9) SNHLFHX: Father died, MI age 61.
+FHX: Mother died age 89 "old age."
+Father died age 89 stroke.
+Brother, age 74 CAD, Sister died age 30 cancer.
+FHX: Father mother died 80's "old age."
+She lived alone 15 years 12/94, daughters began sharing task caring her.
+Her penmanship normal, appeared "child-like" according daughters.
+Father tremors following stroke.
+Brother died brain aneurysm.
+FHX: HTN, Colon CA, daughter unknown type "dystonia."
+At 2:00AM 11/28/97, got go bathroom collapsed mother's arms.
+Her mother noted appeared weak left side.
+FHX: Grand Aunt (stroke), MG (CAD), Mother (CAD, died MI age 63), Father (with unknown CA), Sisters (HTN), No DM relatives.
+He drove visit sister Muscatine, Iowa, without accident.
+BIRTH HX: Spontaneous Vaginal delivery 36weeks gestation G2P1 mother.
+Mother reportedly "flu" 7th 8th month gestation.
+Two weeks prior evaluation UIHC agreed sister pick church 8:15AM, Sunday morning.
+That Sunday went pick sister sister's home sister (because sister gone pick patient) patient left.
+She later called sister asked (sister) overslept.
+MEDS: NoneFHX: Father died MI, Mother DM type II.
+The condition affects patient’s brother maternal grandfather.
+BIRTH HX: 32 weeks gestation G4 mother weighed 4#11oz.
+FHX: Mother alive h/o HTN stroke.
+Father died motor vehicle accident age 40 years.
+PMH: 1)Born 37.5 weeks gestation uncomplicated vaginal delivery G1P0 mother.
+SHX: lives biologic father mother.
+FHX: Migraine headaches maternal side, including mother.
+FHX: Mother died MI, age 70.
+Father died prostate cancer, age 80.
+FHX: She know father contact mother.
+FHX: Father died MI, age 80.
+Mother died MI, age73.
+Brother died Brain tumor, age 9.
+FHX: Father Von Hippel-Lindau Disease.
+He divorced two sons healthy.
+He lives mother.
+FHX: Father HTN h/o strokes ages 45 80; 82 years old.
+Mother DM age 80.
+FHX: Father died age 59 valvular heart disease.
+Mother died DM.
+Brother CABG 8/95.
+Father died renal CA.
+One grandmother passed.
+He started thoughts killing mother.
+PSYCHOSOCIAL STATUS: The patient lives mother staying years now.
+His sister also supportive him.
+DESCRIPTION OF TECHNIQUE: Informed consent obtained patient's brother.
+DESCRIPTION OF TECHNIQUE: Informed consent obtained patient's mom.
+DESCRIPTION OF TECHNIQUE: Informed consent obtained patient's mom.
+DESCRIPTION OF TECHNIQUE: Informed consent obtained patient's brother.
+FAMILY HISTORY: Mother hypertension, depression.
+Father renal cysts sometimes stomach problems.
+Breast cancer reported maternal aunt.
+The patient's sister also diagnosed breast cancer age 59.
+FAMILY HISTORY: Patient admits family history cancer breast associated mother.
+She comes mother history taken.
+She states sexually active declined mother leave room, questioned regarding without mother present.
+FAMILY HX: Significant maternal grandfather adult-onset diabetes, maternal grandmother hypertension, mother depression, father died colon cancer 32 years age.
+She also paternal great grandfather diagnosed colon cancer.
+FAMILY HX: Maternal grandfather MI reports secondary tobacco alcohol use.
+He currently metastatic melanoma, mother hypertension depression, father alcoholism.
+She notes brother treated 12 years ago brain tumor recurrence surgery again.
+Untreated pre-eclampsia result stroke, fluid-build around lungs, kidney failure, death baby death mother.
+FAMILY HISTORY: Mother 50 healthy.
+Dad 40 healthy.
+Half-sister, age 34, healthy.
+She sister age 10 yeast infections.
+FAMILY HISTORY: Her mother nursing home; stroke.
+Her father died age 86 January 2004 congestive heart failure.
+She two brothers, one kidney failure, brother donated kidney brother, young man alcoholic drug addict.
+The patient family history breast cancer within mother age 58.
+She states daughter's father argument state relationship.
+She currently separated partner father 21-month-old daughter.
+The baby's father present delivery, one patient's sisters.
+Family history sister breast cancer age 43.
+She reports family history glaucoma mother, unsure specific kind.
+SOCIAL HISTORY: She single mother one adopted child.
+Her mother alive.
+Her father deceased alcohol.
+FAMILY HISTORY: Her father died age 80 prostate cancer.
+Her mother died age 67.
+She brother died age 70 bone throat cancer.
+She two sons, ages 37 38 years old healthy.
+She two daughters, ages 60 58 years old, cancer.
+He leery surgical procedure, even referral come see us today brother recently died complications back surgery.
+He two brothers ages 68 77 years old, healthy.
+He siblings, brother sister twins died birth.
+He two sons 54 57 years old healthy.
+FAMILY HISTORY: Her father died leukemia.
+Her mother died kidney heart failure.
+She two brothers; five sisters, one breast cancer; two sons; daughter.
+She brought mother.
+SOCIAL HISTORY: Mother appears loving caring.
+FHX: Father Von Hippel-Lindau Disease.
+He divorced two sons healthy.
+He lives mother.
+FHX: Father HTN h/o strokes ages 45 80; 82 years old.
+Mother DM age 80.
+FHX: Father died age 59 valvular heart disease.
+Mother died DM.
+Brother CABG 8/95.
+Father died renal CA.
+FAMILY HISTORY: Significant two brothers father cancer.
+Family Medical History: Father age 79, history cerebrovascular accident (stroke) hypertension.
+Mother history CHF emphysema died age 74.
+No brothers sisters.
+FAMILY HISTORY: Patient admits family history arthritis associated mother.
+HISTORY OF PRESENT ILLNESS: This 9-year-old African-American male mother well-child check.
+Mother concerns time visit.
+He could better milk intake, Mother states eat cheese yogurt.
+He behavior issues, sometimes tries emulate brother negative behaviors.
+When goes Texas, Mom appointment already see allergist needs find primary care physician ask record release.
+He mother well-child check.
+Mother states well regard asthma allergies.
+They done over-the-counter Claritin seems help always sniffling mother reports.
+Growth chart reviewed mother.
+We test vision recently saw eye doctor though discuss need wear glasses mother.
+HISTORY OF PRESENT ILLNESS: This 12-month-old female mother well-child check.
+Mother states well.
+Mother states diagnosed blocked tear duct side shortly birth, normally crusted secretions every morning.
+VIS statements given Mother discussion.
+Keywords: pediatrics, well-child check, drainage, eye, lacrimal duct stenosis, lacrimal duct, mmr, varivax, vis statements, tear duct, lacrimal, percentile, mother, child,
+Mom says things gone well.
+Growth chart reviewed Mom.
+Patient accompanied mother.
+Mother concerned child's red, matted eye walking completely alone yet.
+FAMILY HISTORY: Patient admits family history cancer associated maternal aunt, hypertension associated paternal grandfather.
+The patient’s mom Tanzania.
+Discussed condition treatment Mom.
+(Medical Transcription Sample Report) PRESENTATION: Patient, 13 years old, comes office mother complaining severe ear pain.
+He awoke night severe ear pain, mom states third time year earaches.
+Mom reports patient afebrile earache episodes, upper respiratory symptoms.
+BIRTH AND DEVELOPMENTAL HISTORY: Patient's mother reports normal pregnancy complications, received prenatal care 12 weeks.
+FAMILY/SOCIAL HISTORY: Patient lives parents two siblings (brother - age 11 years, sister - age 15 years).
+Mom reports several friends, concerned time required wrestling team.
+His Dad hypertension frequent heartburn symptoms treats over-the-counter (OTC) medications.
+Mom healthy asthma.
+Patient's Mom states takes prescribed medications OTC medications, admits taking dad's OTC Pepcid AE sometimes gets heartburn.
+Mom sister cooks supper evening.
+The family goes eat twice week gets "fast food" twice week according Mom.
+The history "heartburn" relieved father's medication striking.
+PLAN: Patient Mom agreed trial omeprazole 20 mg bedtime 2 weeks.
+PAST MEDICAL HISTORY: This child born term pregnancy, spontaneous vaginal delivery, mother teenager.
+SOCIAL HISTORY: This child lives mother father, teenagers, unmarried, well educated.
+Grandmother heavy smoker.
+FAMILY HISTORY: Parent admits family history Alzheimer's disease associated paternal grandmother.
+The child accompanied mother communicates well English.
+Sample AddressRE: Sample PatientDear Doctor:We pleasure seeing Abc mother clinic today.
+Although smoke exposure significant family history Abc's father uncle problems asthma well older sister.
+The parents maintain separate households question consistency medication administration father's house.
+We spent majority 45-minute reviewing basic principles asthma management I believe Abc's mother fairly well versed this.
+I encouraged mother contact office answer questions necessary phone.
+Sincerely, Keywords: pediatrics, gestation, bronchodilator, childhood, childhood asthma, cough, father, healthy, letter, mother, pediatric, prematurity, shortness breath, sister, wheezing, wheezing cough, asthma,
+FAMILY HISTORY: Heart disease grandfathers, grandmother stroke, grandmother diabetes.
+FAMILY HISTORY: Patient admits family history cataract associated maternal grandmother,headaches/migraines associated maternal aunt.
+HISTORY OF PRESENT ILLNESS: The patient 62-year-old white female past medical history left frontal glioblastoma subsequent craniotomy infection PE, DVT, hyperlipidemia, hypertension according patient's daughter expressing signs depression.
+FAMILY MEDICAL HISTORY: Father lung cancer, smoker 40 years.
+Father's aunt heart disease.
+Has one younger brother, one daughter.
+The child per daughter picked strained relationship mother, still communicating.
+Poor concentration, mood unknown (the patient respond questions), affect flat, thought process logical goal directed, thought content unable assess patient patient's daughter denied delusions homicidal ideations.
+One son Texas City 1 daughter Florida.
+He 2 sisters brother diabetes mellitus coronary artery disease.
+HISTORY OF PRESENT ILLNESS: The patient 42-year-old white male history seizures brought ER ABCD sister following cocaine nitrous oxide use.
+The patient work since brother became ill 3 months ago quit job care her.
+Sample Type: Psychiatry Sample Name: Psych H&P - 1 Description: Psychiatric History Physical - Patient major depression(Medical Transcription Sample Report) HISTORY OF PRESENT ILLNESS: This 40-year-old white single man hospitalized XYZ Hospital mental health ward, issues filled sister mother.
+The issues involved include fact last 10 years disability psychiatric reasons working, last several weeks month began call family talking fact sexually abused brother.
+A brother approximately 8 years older, sexually abused brother 4 years older.
+The brother 8 years older lives California contact family, minimal contact many years.
+That brother California gay.
+The brother 4 years older, sexually abused, patient age 8 12 regular basis.
+He said, told mother several years ago, nothing it.
+He sister approximately year half younger is, sexually abused brothers will, one occasion.
+He says seen regular basis every time sees feels hurt acknowledged called brother abused told brother's wife happened.
+The brother child wife became upset him.
+The patient reports originally Brooklyn, New York, moved Houston year ago daughter.
+She also expressed frustration fact daughter wanted removed apartment initially placed nursing home due inability care herself.
+The patient also complains daughter "trying tell medications take."
+She stable lithium Zyprexa according daughter recently taken medications, changed Seroquel, daughter reports decompensated since then.
+FAMILY HISTORY: Per chart; mother died stroke, father alcohol abuse diabetes, one sister diabetes, one uncle died leukemia.
+She lived independently apartment one month ago daughter moved nursing home.
+Her father molested her, memories returned.
+FAMILY HISTORY: Significant paternal grandmother mentally competent.
+Her mother depressed treated.
+Her mother currently age 55.
+She paternal grandmother may Schizophrenia.
+There also family history paternal grandfather using substance.
+She maternal aunts used alcohol, maternal uncle use alcohol excess.
+The maternal uncle committed suicide; drowned himself.
+Medical history family significant son, age 4, seizures ruled out.
+Her mother two maternal aunts thyroid disease.
+She brother, age 32, diabetes, maternal uncle heart disease, several paternal great aunts breast cancer.
+ABUSE HISTORY: Significant physically abused father, first husband, second husband.
+She sexually abused father age 5 age 18.
+She emotionally abused mother, father, first two husbands.
+She neglected mother father.
+She contact brother.
+He first remembers difficulty concentration college, mother pointed point early education, one teacher commented may problems attention-deficit hyperactivity disorder.
+ABUSE HISTORY/TRAUMA/UNUSUAL CHILDHOOD EVENTS:The patient really feel abused child, significant problems father returned second army tour Vietnam.
+He met father 2 years age.
+He states father verbally abused mother.
+He recall age 3, father left road, order shut up.
+His mother eventually put foot, told father quit drinking would separate, father chose give alcohol.
+FAMILY PSYCHIATRIC HISTORY:The patient's father suffered posttraumatic stress disorder, well alcoholism.
+The patient's mother similar symptoms, possibly ADHD, depression mother side family.
+FAMILY MEDICAL HISTORY:The patient's grandfather myocardial infarction age 40, died another MI 50's.
+The patient's mother breast cancer.
+His father stroke hypertension.
+His maternal grandmother obese diabetes mellitus.
+The maternal grandmother died colon cancer.
+He came Alaska 1977; father left last term service army Germany time, came Alaska help grandparent build cabin; ended staying.
+He two daughters, ages 8 6.
+When seven years old, raised mother stepfather.
+He sustain relationship biological father time on.
+He son currently 20 years old.
+After home maker, Mr. T worked mother restaurant, moved work Borg-Warner corporation one two years beginning Plum Industries, worked 14 years worked way lead engineer.
+When 3 4 years age, playing baseball cup used ball, brother accidentally hit forehead bat; lose consciousness time.
+ABUSE HISTORY/TRAUMA/UNUSUAL CHILDHOOD EVENTS: The patient molested cousins mother's boyfriends.
+Her mother often parties, children unsupervised.
+FAMILY PSYCHIATRIC HISTORY: Her son ADHD.
+Her daughter depression.
+Her mother depression possibly even bipolar disorder.
+Her mother substance abuse issues, primarily cannabis alcohol, drugs well.
+Her great grandmother father's side Alzheimer's disease.
+FAMILY MEDICAL HISTORY: The patient's mother adopted, recently learned family medical history.
+An aunt hypothyroidism, diabetes mellitus sides family.
+Because mother residing Alaska, husband sent here, shortly thereafter evicted home well; building sold.
+She daughter, age 13, twins (a boy girl), age 10.
+CHIEF COMPLAINT/HISTORY OF PRESENT ILLNESS: ABCD presents visit mother, Xyz, significant other, Pqr.
+Since 54 mg, mother concerns sleeping well night, consistently staying 12:00 1:00, eating noonday meal much supper.
+Mother reports weekends medication.
+She notice sisters become irritated say either hitting bothering say, "It's accident."
+Mother reports ABCD medication since kindergarten.
+ABCD's mother, A, well significant other, R, teachers convinced needs medication would like either trial trial lower dose.
+He lost weight mother aware of, getting sick normal.
+Mood control: Mother reports aggressive since medication, getting trouble school aggression misbehavior.
+The exception gets occasional fights sisters.
+Energy: Mother reports lot energy.
+FAMILY PSYCHIATRIC HISTORY:Mother reports side family currently assessed mood disorder/bipolar.
+She know anyone else family, exception said father's behavior "weird."
+Biological father's side family, mother reports father impulsive.
+There also domestic violence mother married father.
+FAMILY AND SOCIAL HISTORY:Biological mother father married five years.
+Currently, father deported back Mexico.
+Mother currently seeing R, significant other, seeing last seven months.
+ABCD good relationship R. ABCD older sister, M, age 9, describe gifted creative without attention issues oppositional issues, younger sister, S, age 7, mother describes "all wisdom."
+PREGNANCY: Mother reports pregnancy within normal limits well labor birth; although, exposed domestic violence ABCD utero.
+PHYSICAL ABUSE: Mother ABCD deny history physical sexual abuse emotional abuse, exception exposure domestic violence young, age 2 before.
+DISCIPLINE PROBLEMS: Mother reports ABCD cuddly infant could sleep well.
+His grades okay, per mother.
+When asked talks hurt upset, stated, "Mom."
+(At first, said video games, said mom).
+MENTAL STATUS EXAM: This long appointment, approximately two hours length, due mother significant many questions.
+STRENGTHS AND SUPPORTS: He strong support system mother, grandmother, mother's significant other, Richard.
+He sense humor positive relationship mother significant other, well good school behavior.
+CLINICAL IMPRESSION: It difficult know trialed medication whether truly attention deficit oppositional behavior, due mother since last appointment created lot structure life.
+There possibility ABCD could underlying mood disorder mother assessed bipolar due history father's risk-taking behaviors, drug alcohol use, well impulsivity.
+Also mother reports things get noisy chaotic around ABCD, report head hurts feels much going head.
+PROGNOSIS:Good, due mother significant invested ABCD's care.
+I gave mother NICHQ Vanderbilt Assessment Scales thatscreen ADHD, well anxiety, oppositional defiant disorder, conduct disorder, depression, mood.
+We mother Richard, well teachers, screen medication medication.
+Encouraged mother continue Love Logic 1-2-3 Magic parenting techniques.
+Sample Type: Psychiatry Sample Name: Psychiatric Evaluation - 4 Description: Admission Psychiatric Evaluation(Medical Transcription Sample Report) ADMISSION PSYCHIATRIC EVALUATIONIDENTIFYING INFORMATION/REFERRAL DATA: This 16-year-old Caucasian adolescent female going ninth grade lives mother, mother's boyfriend, 12, 11, 10-year-old sister.
+The patient brought mother picked Anchorage Police Department (APD).
+APD picked runaway brought mother's request friends told mother suicidal.
+The mother found journals room talking suicide, raped.
+She mother last two months Ketchican boyfriend, Michael, followed Anchorage.
+She irritable verbal altercations wither sister 14.
+The mother concerned patent's safety feels able control her.
+She went live dad age 16.
+Now living mother mother's boyfriend last two months.
+In December, grandmother passed away grandmother mother process, started feeling depressed.
+DEVELOPMENT AGE FACTORS: The mother reports born jaundice eczema.
+There allegation rape mother found journal, going investigated.
+DISCUSSION: This 16-year-old adolescent girl reports last eight months, since December grandmother passed away, feeling depressed sad.
+She ran away house, suicidal gesture reported friends, denies, journals house dark subjects suicidal ideations found mother.
+The mother afraid able control her.
+He accompanied office sister-in-law drove appt.
+He stated sister-in-law wife told become violent fought Sherriff trying take hospital.
+He one daughter age 13.
+He able complete answers 20 minutes observed letting sister-in-law fill him.
+He married since 1995 lost son SIDS seven years ago.
+Questions - Answers(Medical Transcription Sample Report) DONOR'S PERCEPTION OF RECIPIENT'S ILLNESS:What understanding recipient's illness need kidney - "This kidney mother dialysis mother suffering long enough, I want relieve suffering able kidney transplant."
+When subject donation arise - "My mom I talked together family."
+Well, since talking, "I tell mother really understand.
+I don't think mom really understands, I know really needs kidney.
+CANDIDATE'S MOTIVATION TO DONATE:How arrive decision donor - "My brothers sisters I got together decided since schedule flexible I used traveling, I seem like best candidate."
+CANDIDATE'S MOTIVATION TO DONATE:How would feel cannot donor reason - "I would feel upset I know best mother, I want badly mother.
+CANDIDATE'S DESCRIPTION OF RELATIONSHIP WITH RECIPIENT:What relationship recipient - "That mother."
+I know I feel better mother, mother always sacrificing helping others."
+What expectations recuperation - "I planning staying mom three months Houston area transplant.
+AGE AND HEALTH OF SPOUSE/PARTNER: He 40s healthy lives outside Tampo 6-year-old daughter.
+This allowed flexible best candidate donation mom."
+ASSESSMENT: This 43-year-old married, African-American female presents donor assessment preparation possible kidney donation mother.
+FATHER: Father died 2001, age 62 cardiac cancer.
+MOTHER: Dolorous Massey 63 good health.
+RELATIONSHIP WITH FAMILY MEMBERS/IDENTIFIED PRIMARY SUPPORT SYSTEM: She close brother.
+DONOR PLANS: Either husband brother, older children try donor.
+Mother said next day, wonderful improvement, well medicine.
+PLAN: Discussed mother two options.
+Mother watch diet.
+Mother understands call problems.
+He suggested mother bipolar disorder.
+He started thoughts killing mother.
+PSYCHOSOCIAL STATUS: The patient lives mother staying years now.
+His sister also supportive him.
+He two daughters one marriage, ages 15 22.
+He reports children's mothers turned him.
+His wife son note temazepam makes groggy disoriented times home.
+MENTAL STATUS EXAMINATION: He average-sized white male, casually dressed, wife son bedside.
+According mother, patient past major medical psychiatric illnesses.
+Currently, patient lives mother requires assistance perform ADLs patient become ataxic since November 2006.
+FAMILY MEDICAL HISTORY: Father's grandmother diagnosed Alzheimer disease 70s symptoms similar patient described patient's mother.
+Both, mother's father father's mother "nervous breakdowns" unknown dates.
+SOCIAL HISTORY: The patient lives mother, takes care patient's ADLs.
+There indication precipitated symptoms, mother aware factors patient unable communicate.
+She states disciplined primarily father spankings.
+She states occasion mother would use belt spank hand spoon.
+SOCIAL HISTORY: The patient's mother age 66, father age 70, brother age 44.
+Her brother incarcerated numerous times assaults difficulty anger rage.
+The patient's father machinist describes somewhat narcissistic alcohol abuse problem.
+The patient's mother arthritic.
+She states mother stopped working middle age laid appears somewhat reclusive.
+The patient family history breast cancer within mother age 58.
+Mother (migraine HA).
+Father 22yr old brother alive well.
+He visiting son time.
+His son drove Back Iowa.
+9) SNHLFHX: Father died, MI age 61.
+FHX: Mother died age 89 "old age."
+Father died age 89 stroke.
+Brother, age 74 CAD, Sister died age 30 cancer.
+Father tremors following stroke.
+Brother died brain aneurysm.
+FHX: HTN, Colon CA, daughter unknown type "dystonia."
+At 2:00AM 11/28/97, got go bathroom collapsed mother's arms.
+Her mother noted appeared weak left side.
+FHX: Grand Aunt (stroke), MG (CAD), Mother (CAD, died MI age 63), Father (with unknown CA), Sisters (HTN), No DM relatives.
+BIRTH HX: Spontaneous Vaginal delivery 36weeks gestation G2P1 mother.
+Mother reportedly "flu" 7th 8th month gestation.
+Family history sister breast cancer age 43.
+Breast cancer reported maternal aunt.
+The patient's sister also diagnosed breast cancer age 59.
+Two weeks prior evaluation UIHC agreed sister pick church 8:15AM, Sunday morning.
+That Sunday went pick sister sister's home sister (because sister gone pick patient) patient left.
+She later called sister asked (sister) overslept.
+MEDS: NoneFHX: Father died MI, Mother DM type II.
+FHX: Mother alive h/o HTN stroke.
+Father died motor vehicle accident age 40 years.
+PMH: 1)Born 37.5 weeks gestation uncomplicated vaginal delivery G1P0 mother.
+SHX: lives biologic father mother.
+FHX: Migraine headaches maternal side, including mother.
+FHX: Mother died MI, age 70.
+Father died prostate cancer, age 80.
+FHX: She know father contact mother.
+FHX: Father died MI, age 80.
+Mother died MI, age73.
+Brother died Brain tumor, age 9.
+He drove visit sister Muscatine, Iowa, without accident.
+FHX: Father Von Hippel-Lindau Disease.
+He divorced two sons healthy.
+He lives mother.
+FHX: Father HTN h/o strokes ages 45 80; 82 years old.
+Mother DM age 80.
+FHX: Father died age 59 valvular heart disease.
+Mother died DM.
+Brother CABG 8/95.
+Father died renal CA.
+BIRTH HX: 32 weeks gestation G4 mother weighed 4#11oz.
+She also son lumbar spine disease.
+FAMILY HISTORY: Patient admits family history rheumatoid arthritis associated maternal grandmother.
+She walks daughter school back home day takes 20 minutes way.
+(Medical Transcription Sample Report) SUBJECTIVE: This 46-year-old white male Down’s syndrome presents mother followup hypothyroidism, well onychomycosis.
+His mother notes although like take medications, taking encouragement.
+Sample Type: SOAP - Chart Notes Sample Name: Fifth Disease - SOAP Description: Fifth disease sinusitis(Medical Transcription Sample Report) SUBJECTIVE: Grandfather brings patient today headaches, mostly face.
+FAMILY HISTORY: Sister dizzy acute illnesses.
+In fact, dad diabetes brother diabetes.
+She family history colon cancer questionable mother, deceased.
+Sample Type: SOAP - Chart Notes Sample Name: Gen Med Progress Note - 6 Description: A 3-year-old male brought mother concerns eating - particular eater, eating much general.
+(Medical Transcription Sample Report) SUBJECTIVE: This 3-year-old male brought mother concerns eating.
+PLAN: I talked mother this.
+Apparently, brother similar symptoms.
+They eaten chicken ate next day, I could quite understand problem little bit language barrier, although dad trying hard explain happened.
+But way, brother got done eating chicken, felt bad continued feel bad.
+Her daughter says check periodically similar today’s reading.
+She also thinks since Lexapro, somewhat tremor basically whole body least upper body including torso arms daughters I noticed speak certainly difficult tell today much tremor.
+She acute distress, accompanied daughter.
+Daughter mentioned today thinks mom pretty well, especially given turning 90 later month I would tend agree that.
+Patient shoulder bursitis, pharyngitis, attention deficit disorder, (Medical Transcription Sample Report) S: The patient today mom several complaints.
+His mom concerned.
+At moms insistence, refer ENT possible tonsillectomy.
+Mother died congestive heart failure.
+Father died myocardial infarction age 56.
+Brother died lymphoma.
+She one brother living angioplasties x 2.
+She one brother asthma.
+FAMILY HISTORY: Father died age 84.
+Mother died 80s congestive heart failure.
+He two brothers six sisters living remain good health.
+I told I would try talk sister sometime next day two.
+She followup appointment Dr. F. The day dismissed, nephew called stating prescriptions lost, instructions lost, etc.
+FAMILY HISTORY: Father died CA age 79.
+Mother died postoperative infection age 81.
+Brother died pancreatitis age 40 prior history mental illness.
+Father also prior history lung cancer.
+Mother history breast cancer.
+Father also glaucoma.
+Mother said next day, wonderful improvement, well medicine.
+PLAN: Discussed mother two options.
+Mother watch diet.
+Mother understands call problems.
+FAMILY HISTORY: Her father died age 80 prostate cancer.
+Her mother died age 67.
+She brother died age 70 bone throat cancer.
+She two sons, ages 37 38 years old healthy.
+She two daughters, ages 60 58 years old, cancer.
+FAMILY HISTORY: Mother 50 healthy.
+Dad 40 healthy.
+Half-sister, age 34, healthy.
+She sister age 10 yeast infections.
+(Medical Transcription Sample Report) SUBJECTIVE: Mom brings patient today sore throat starting last night.
+FAMILY HISTORY: The patient's father also suffered bilateral hip osteoarthritis.
+(Medical Transcription Sample Report) SUBJECTIVE: His brother, although vegetarian, elevated cholesterol medication lower it.
+Father died stroke many years ago.
+Mother arthritis.
+FAMILY HISTORY: Mother cancer, died 70.
+Father died unknown cause, brother died unknown cause.
+DESCRIPTION OF TECHNIQUE: Informed consent obtained patient's brother.
+DESCRIPTION OF TECHNIQUE: Informed consent obtained patient's mom.
+TECHNIQUE IN DETAIL: After informed consent obtained patient mother, chest scanned portable ultrasound.
+She episioproctotomy associated birth seven pound son 1998 immediately noted spontaneous loss gas stool.
+His father died 50s acute myocardial infarction.
+Her family history significant sister breast cancer age 34 daughter age 38.
+Sample Type: Surgery Sample Name: Circumcision - 2 Description: Circumcision procedure (neotal)(Medical Transcription Sample Report) CIRCUMCISION - NEONATALPROCEDURE:: The procedure, risks benefits explained patient's mom, consent form signed.
+The little boy given back mom.
+He known mother coronary heart disease.
+She undergoes dialysis Monday, Wednesday, Friday DaVita Alameda care Dr. P. She underwent coronary bypass surgery 2000 cardiologist Dr. T. She lives husband also son home active lady.
+FAMILY HISTORY: Patient admits family history gout attacks associated father.
+FAMILY HISTORY: Father died CA age 79.
+Mother died postoperative infection age 81.
+Brother died pancreatitis age 40 prior history mental illness.
+Father also prior history lung cancer.
+Mother history breast cancer.
+Father also glaucoma.
+FAMILY MEDICAL HISTORY: The patient's mother history Diabetes breast cancer.
+Sample Type: Urology Sample Name: Circumcision - 2 Description: Circumcision procedure (neotal)(Medical Transcription Sample Report) CIRCUMCISION - NEONATALPROCEDURE:: The procedure, risks benefits explained patient's mom, consent form signed.
+The little boy given back mom.
+FAMILY HISTORY: Patient admits family history heart attack associated father (deceased).
+Mother died congestive heart failure.
+Father died myocardial infarction age 56.
+Brother died lymphoma.
+She one brother living angioplasties x 2.
+She one brother asthma.
+FAMILY HISTORY: Father died age 84.
+Mother died 80s congestive heart failure.
+He two brothers six sisters living remain good health.
+FAMILY HISTORY: Positive coronary artery disease (father & brother).
+I told I would try talk sister sometime next day two.
+TECHNIQUE IN DETAIL: After informed consent obtained patient mother, chest scanned portable ultrasound.
+Family Medical History: Father age 79, history cerebrovascular accident (stroke) hypertension.
+Mother history CHF emphysema died age 74.
+No brothers sisters.
+On date motor vehicle accident, sitting right front passenger's seat, wearing seat shoulder belt safety harnesses, 1996 1997 Volvo 850 Wagon automobile driven son.
+FAMILY HISTORY: He reports father angina mother eosinophilia.
+He brothers sisters.
+FAMILY HISTORY: The patient's father also suffered bilateral hip osteoarthritis.
+FAMILY HISTORY: Mother deceased age 55 breast cancer also type 2 diabetes.
+Father deceased known cause.
+Strong family history diabetes mother, grandmother, sisters, maternal aunts, uncles.
+SOCIAL HISTORY: She works cook nursing home, single one daughter.
+He married 2 sons, ages 5 17 years old.
+FAMILY HISTORY: No similar illness family, except hypertension one sister mom, died 61 years old congestive heart failure.
+His father 67 years old, currently alive asthma.
+He also one sister hypertension.
+One grandmother passed.
+FAMILY HISTORY: Patient admits family history cancer breast associated mother.
+She comes mother history taken.
+She states sexually active declined mother leave room, questioned regarding without mother present.
+FAMILY HX: Significant maternal grandfather adult-onset diabetes, maternal grandmother hypertension, mother depression, father died colon cancer 32 years age.
+She also paternal great grandfather diagnosed colon cancer.
+FAMILY HX: Maternal grandfather MI reports secondary tobacco alcohol use.
+He currently metastatic melanoma, mother hypertension depression, father alcoholism.
+FAMILY HISTORY: Significant two brothers father cancer.
+FAMILY HISTORY: Parent admits family history Alzheimer's disease associated paternal grandmother.
+The child accompanied mother communicates well English.
+Family Medical History: Father age 79, history cerebrovascular accident (stroke) hypertension.
+Mother history CHF emphysema died age 74.
+No brothers sisters.
+She notes brother treated 12 years ago brain tumor recurrence surgery again.
+He two daughters one marriage, ages 15 22.
+He reports children's mothers turned him.
+His wife son note temazepam makes groggy disoriented times home.
+MENTAL STATUS EXAMINATION: He average-sized white male, casually dressed, wife son bedside.
+According mother, patient past major medical psychiatric illnesses.
+Currently, patient lives mother requires assistance perform ADLs patient become ataxic since November 2006.
+FAMILY MEDICAL HISTORY: Father's grandmother diagnosed Alzheimer disease 70s symptoms similar patient described patient's mother.
+Both, mother's father father's mother "nervous breakdowns" unknown dates.
+SOCIAL HISTORY: The patient lives mother, takes care patient's ADLs.
+There indication precipitated symptoms, mother aware factors patient unable communicate.
+She states disciplined primarily father spankings.
+She states occasion mother would use belt spank hand spoon.
+SOCIAL HISTORY: The patient's mother age 66, father age 70, brother age 44.
+Her brother incarcerated numerous times assaults difficulty anger rage.
+The patient's father machinist describes somewhat narcissistic alcohol abuse problem.
+The patient's mother arthritic.
+She states mother stopped working middle age laid appears somewhat reclusive.
+HISTORY OF PRESENT ILLNESS: The patient 62-year-old white female past medical history left frontal glioblastoma subsequent craniotomy infection PE, DVT, hyperlipidemia, hypertension according patient's daughter expressing signs depression.
+FAMILY MEDICAL HISTORY: Father lung cancer, smoker 40 years.
+Father's aunt heart disease.
+Has one younger brother, one daughter.
+The child per daughter picked strained relationship mother, still communicating.
+Poor concentration, mood unknown (the patient respond questions), affect flat, thought process logical goal directed, thought content unable assess patient patient's daughter denied delusions homicidal ideations.
+One son Texas City 1 daughter Florida.
+He 2 sisters brother diabetes mellitus coronary artery disease.
+HISTORY OF PRESENT ILLNESS: The patient 42-year-old white male history seizures brought ER ABCD sister following cocaine nitrous oxide use.
+The patient work since brother became ill 3 months ago quit job care her.
+Sample Name: Psych H&P - 1 Description: Psychiatric History Physical - Patient major depression(Medical Transcription Sample Report) HISTORY OF PRESENT ILLNESS: This 40-year-old white single man hospitalized XYZ Hospital mental health ward, issues filled sister mother.
+The issues involved include fact last 10 years disability psychiatric reasons working, last several weeks month began call family talking fact sexually abused brother.
+A brother approximately 8 years older, sexually abused brother 4 years older.
+The brother 8 years older lives California contact family, minimal contact many years.
+That brother California gay.
+The brother 4 years older, sexually abused, patient age 8 12 regular basis.
+He said, told mother several years ago, nothing it.
+He sister approximately year half younger is, sexually abused brothers will, one occasion.
+He says seen regular basis every time sees feels hurt acknowledged called brother abused told brother's wife happened.
+The brother child wife became upset him.
+The patient reports originally Brooklyn, New York, moved Houston year ago daughter.
+She also expressed frustration fact daughter wanted removed apartment initially placed nursing home due inability care herself.
+The patient also complains daughter "trying tell medications take."
+She stable lithium Zyprexa according daughter recently taken medications, changed Seroquel, daughter reports decompensated since then.
+FAMILY HISTORY: Per chart; mother died stroke, father alcohol abuse diabetes, one sister diabetes, one uncle died leukemia.
+She lived independently apartment one month ago daughter moved nursing home.
+FAMILY HISTORY: Patient admits family history rheumatoid arthritis associated maternal grandmother.
+FAMILY HISTORY: Patient admits family history arthritis associated mother.
+HISTORY OF PRESENT ILLNESS: This 9-year-old African-American male mother well-child check.
+Mother concerns time visit.
+He could better milk intake, Mother states eat cheese yogurt.
+He behavior issues, sometimes tries emulate brother negative behaviors.
+His father alcoholic.
+He currently lives sister, work; collects pension.
+When goes Texas, Mom appointment already see allergist needs find primary care physician ask record release.
+He mother well-child check.
+Mother states well regard asthma allergies.
+They done over-the-counter Claritin seems help always sniffling mother reports.
+Growth chart reviewed mother.
+We test vision recently saw eye doctor though discuss need wear glasses mother.
+FAMILY HISTORY: Patient admits family history cataract associated maternal grandmother,headaches/migraines associated maternal aunt.
+FAMILY MEDICAL HISTORY: The patient's mother history Diabetes breast cancer.
+HISTORY OF PRESENT ILLNESS: This 12-month-old female mother well-child check.
+Mother states well.
+Mother states diagnosed blocked tear duct side shortly birth, normally crusted secretions every morning.
+VIS statements given Mother discussion.
+Keywords: consult - history phy., well-child check, drainage, eye, lacrimal duct stenosis, lacrimal duct, mmr, varivax, vis statements, tear duct, lacrimal, percentile, mother, child,
+FAMILY HISTORY: Her mother nursing home; stroke.
+Her father died age 86 January 2004 congestive heart failure.
+She two brothers, one kidney failure, brother donated kidney brother, young man alcoholic drug addict.
+She lives boyfriend father.
+Father died stroke many years ago.
+Mother arthritis.
+FAMILY HISTORY: Mother cancer, died 70.
+Father died unknown cause, brother died unknown cause.
+His father died 50s acute myocardial infarction.
+Mom says things gone well.
+Growth chart reviewed Mom.
+FAMILY HISTORY: Her father type I diabetes heart disease.
+She brother heart attack age 52.
+FAMILY HISTORY: Includes diabetes father side family.
+She also son lumbar spine disease.
+She states daughter's father argument state relationship.
+She currently separated partner father 21-month-old daughter.
+FAMILY HISTORY: Mother died age 59 due stomach cancer father died age 91 years old.
+(Medical Transcription Sample Report) SUBJECTIVE: His brother, although vegetarian, elevated cholesterol medication lower it.
+FAMILY HISTORY: Patient admits family history anxiety, stress disorder associated mother.
+She walks daughter school back home day takes 20 minutes way.
+HISTORY OF PRESENT ILLNESS: This 12-year-old white male mother complaints right ear hurting.
+Mother states complaining several days.
+(Medical Transcription Sample Report) PRESENTATION: Patient, 13 years old, comes office mother complaining severe ear pain.
+He awoke night severe ear pain, mom states third time year earaches.
+Mom reports patient afebrile earache episodes, upper respiratory symptoms.
+BIRTH AND DEVELOPMENTAL HISTORY: Patient's mother reports normal pregnancy complications, received prenatal care 12 weeks.
+FAMILY/SOCIAL HISTORY: Patient lives parents two siblings (brother - age 11 years, sister - age 15 years).
+Mom reports several friends, concerned time required wrestling team.
+His Dad hypertension frequent heartburn symptoms treats over-the-counter (OTC) medications.
+Mom healthy asthma.
+Patient's Mom states takes prescribed medications OTC medications, admits taking dad's OTC Pepcid AE sometimes gets heartburn.
+Mom sister cooks supper evening.
+The family goes eat twice week gets "fast food" twice week according Mom.
+The history "heartburn" relieved father's medication striking.
+PLAN: Patient Mom agreed trial omeprazole 20 mg bedtime 2 weeks.
+FAMILY HISTORY: Patient admits family history gout attacks associated father.
+FAMILY HISTORY: Mother hypertension, depression.
+Father renal cysts sometimes stomach problems.
+She three grown sons, successful professional positions.
+One son gastroenterologist San Diego, California.
+As far cancer two cousins breast cancer.
+As far diabetes father grandfather type II diabetes.
+Son type I diabetes struggling moment.
+Mother would concerned possibility coronary artery disease given patient’s underlying risk factors.
+FAMILY HISTORY: Father passed away 81; mother multiple myeloma 83.
+FAMILY HISTORY: Positive coronary artery disease (father & brother).
+FAMILY HISTORY: Benign breast lump mother; however, paternal grandmother breast cancer.
+Sample Name: Gen Med Consult - 17 Description: An 18-month-old white male mother complaint intermittent fever past five days.
+HISTORY OF PRESENT ILLNESS: This 18-month-old white male mother complaint intermittent fever past five days.
+Mother states completed Amoxil several days ago sinus infection.
+Mother states temperature usually elevates night.
+Mother taken since, fact states today seems much better.
+PLAN: Mother advised continue Zyrtec directed daily.
+Mother also worried.
+FAMILY SOCIAL HISTORY: The sister today clinical sinusitis.
+Mother father healthy.
+Foster mom actually going town week 19th 23rd, probably hospitalized respite care foster care situations handle patient.
+Biological Mom Grandma visit Thursdays hour.
+Each time I see her, I impressed, relayed foster mom.
+Keywords: consult - history phy., chronic lung disease, signs infection, breathing status, foster mom, foster care, pediasure,
+Mom allergy trouble right now.
+Mom concerns.
+She brought mother.
+SOCIAL HISTORY: Mother appears loving caring.
+Sample Name: Gen Med Consult - 23 Description: (Medical Transcription Sample Report) SUBJECTIVE: Mom brings patient today possible ear infection.
+He treated 04/14/2004, amoxicillin left otitis Mom said seem get better started complaining left ear pain today.
+He stated brother died heart failure age 72.
+FAMILY HISTORY: The Father patient died age 69 CVA.
+The Mother patient died age 79 "heart stopped".
+Four siblings died, two due diabetes, one cause unknown, one brother died age 72 heart failure.
+The patient lives wife daughter apartment.
+GEN: Elderly gentleman lying bed mild respiratory distress, thin, tired appearing, wife daughter present bedside, articulate.
+FAMILY HISTORY: Mother 61 years old brother 39 years old, alive well.
+Father died 48 colon cancer questionable pancreatic cancer.
+One paternal uncle died 32 colon cancer bile duct cancer.
+One paternal uncle colon cancer 40s.
+Thirty cancers noted father’s side family, many colon; two women breast cancer.
+DNR status: I ad discussion patient's daughter, requests patient receive CPR intubation clinical condition patient respond therapy.
+HISTORY OF PRESENT ILLNESS: This patient resident Mazatlan, Mexico, visiting son Utah, history diabetes.
+SOCIAL HISTORY: The patient Mazatlan, Mexico resident, visiting son here.
+FAMILY HISTORY: Strongly positive heart disease father.
+His father history coronary artery disease multiple vascular strokes.
+His mother 80, also dementia.
+FAMILY HISTORY: Mother died age 79 stroke.
+Father died age 91 old age.
+Her brother prostate cancer.
+She one brother living.
+Oxygen saturation 98% 2 L. GENERAL APPEARANCE: She alert oriented, deferring history daughters.
+She lot stress associated son challenges.
+A sister breast carcinoma diagnosed 50s.
+A father gastric carcinoma diagnosed 70s.
+FAMILY HISTORY: Notable mother good health, father joint problems questionable celiac disease well.
+She two sisters one brother.
+One sister interestingly inflammatory arthritis.
+I discussed mother gold standard really small bowel biopsy, would go back gluten diet obtain study.
+We check TSH well CBC make sure anemic secondary rectal bleeding sister inflammatory arthritis, go ahead check flexible sigmoidoscopy make sure signs inflammatory bowel disease.
+FAMILY HISTORY: Patient admits family history heart attack associated father (deceased).
+FAMILY HISTORY: Mother history coronary artery disease.
+Further inpatient management patient provided Dr. R. The patient's status discussed daughter husband.
+PAST MEDICAL HISTORY: This child born term pregnancy, spontaneous vaginal delivery, mother teenager.
+SOCIAL HISTORY: This child lives mother father, teenagers, unmarried, well educated.
+Grandmother heavy smoker.
+The daughter states patient Life Care Center, believes started morning.
+Patient daughter also deny weight loss, fevers, chills, sweats, nausea, vomiting, abdominal pain.
+FAMILY HISTORY: Diabetes, Hypertension, Father Coronary Artery Bypass Graph (CABG) age 34.
+FAMILY HISTORY: Heart disease grandfathers, grandmother stroke, grandmother diabetes.
+He leery surgical procedure, even referral come see us today brother recently died complications back surgery.
+He two brothers ages 68 77 years old, healthy.
+He siblings, brother sister twins died birth.
+He two sons 54 57 years old healthy.
+FAMILY HISTORY: Her father died leukemia.
+Her mother died kidney heart failure.
+She two brothers; five sisters, one breast cancer; two sons; daughter.
+When seven years old, raised mother stepfather.
+He sustain relationship biological father time on.
+He son currently 20 years old.
+After home maker, Mr. T worked mother restaurant, moved work Borg-Warner corporation one two years beginning Plum Industries, worked 14 years worked way lead engineer.
+FAMILY HISTORY: Mother died cancer, unknown type.
+Dad died MI.
+The condition affects patient’s brother maternal grandfather.
+SOCIAL HISTORY: She single mother one adopted child.
+Her mother alive.
+Her father deceased alcohol.
+FAMILY HISTORY: Patient admits family history anxiety, stress disorder associated mother.
+The patient’s mom Tanzania.
+Discussed condition treatment Mom.
+(Medical Transcription Sample Report) SUBJECTIVE: His brother, although vegetarian, elevated cholesterol medication lower it.
+She walks daughter school back home day takes 20 minutes way.
+Her sister died breast cancer age 32 daughter breast cancer age 27.

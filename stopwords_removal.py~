@@ -7,7 +7,8 @@ stops = set(stopwords.words('english'))
 outfile = open("family.txt","w")
 
 for line in word_list:
-	text =' '.join([word for word in line.split() if word not in stops])
-	outfile.write(text + '\n')
+    for w in line.split():
+        if w.lower() not in stops:
+            outfile.write(w + '\n')
 
 outfile.close()
